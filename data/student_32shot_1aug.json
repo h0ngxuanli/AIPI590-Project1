@@ -1,0 +1,994 @@
+[
+    {
+        "prompt": "There were 6 roses in the vase. Mary cut some more roses from her flower garden. There are now 16 roses in the vase. How many roses did she cut ?\n\n###\n\n",
+        "completion": " There were 6 roses in the vase.\nMary cut some more roses from her flower garden.\n\nThis means that Mary took some roses from her flower garden and put them in the vase, increasing the number of roses in the vase. So we want to find out how many roses she took from her flower garden. \n\nThere are now 16 roses in the vase.\n\nThis means that the vase now has 16 roses in it. So we know that the vase started with 6 roses, and Mary added 10 more. \n\nTherefore, Mary cut 10 roses from her flower\n\n-->\n\n10.0 END"
+    },
+    {
+        "prompt": "Joan went to 4 football games this year. She went to 9 football games last year. How many football games did Joan go to in all ?\n\n###\n\n",
+        "completion": " Joan went to 4 football games this year and 9 football games last year. So, Joan went to a total of 4 + 9 = 13 football games in all.\n\n-->\n\n13.0 END"
+    },
+    {
+        "prompt": "There are 7 dogwood trees currently in the park. Park workers will plant 3 more dogwood trees today and 2 more dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished ?\n\n###\n\n",
+        "completion": " There are 7 dogwood trees currently in the park. \n\nPark workers will plant 3 more dogwood trees today. \n\nThat means there are now 10 dogwood trees in the park. \n\nPark workers will plant 2 more dogwood trees tomorrow. \n\nThat means there are now 12 dogwood trees in the park.\n\n-->\n\n12.0 END"
+    },
+    {
+        "prompt": "Nancy grew 6 potatoes. Sandy grew 7 potatoes. How many potatoes did they grow in total ?\n\n###\n\n",
+        "completion": " Nancy grew 6 potatoes. \nThat means Sandy grew 7 potatoes. \nThat means they grew 6 + 7 = 13 potatoes in total.\n\n-->\n\n13.0 END"
+    },
+    {
+        "prompt": "There are 54 scissors in the drawer. Keith placed 22 more  scissors in the drawer. How many scissors are now there in all ?\n\n###\n\n",
+        "completion": " There are 54 scissors in the drawer. Keith placed 22 more scissors in the drawer. \nThat means that 22 + 54 = 76 scissors are now in the drawer.\n\n-->\n\n76.0 END"
+    },
+    {
+        "prompt": "There are 107 walnut trees currently in the park. Park workers will plant  104 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\n\n###\n\n",
+        "completion": " There are 107 walnut trees currently in the park. \n\nThis means that, right now, the park has 107 walnut trees. \n\nPark workers will plant 104 more walnut trees today. \n\nThis means that, after the workers are finished, the park will have 107 + 104 = 211 walnut trees.\n\n-->\n\n211.0 END"
+    },
+    {
+        "prompt": "There were a total of 323 football games in the season. The season is played for 17 months. How many football games were played each month, if each month has the same number of games?\n\n###\n\n",
+        "completion": " There were a total of 323 football games in the season. \n\nThe season is played for 17 months. \n\nHow many football games were played each month, if each month has the same number of games?\n\nThere were a total of 323 football games in the season. \n\nThe season is played for 17 months. \n\nHow many football games were played each month, if each month has the same number of games?\n\nThere were a total of 323 football games in the season. \n\nThe season is played for 17 months. \n\nHow many football games were\n\n-->\n\n19.0 END"
+    },
+    {
+        "prompt": "Joan bought 6 dozen eggs from the grocery store to bake some cakes.  How many eggs did Joan buy ?\n\n###\n\n",
+        "completion": " Joan bought 6 dozen eggs. \nThere are 12 eggs in 1 dozen. \nSo, Joan bought 72 eggs.\n\n-->\n\n72.0 END"
+    },
+    {
+        "prompt": "Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. How many black balloons does Mary have now ?\n\n###\n\n",
+        "completion": " Nancy has 7 black balloons.\nThat means Mary has 4 times as many black balloons as Nancy.\nThat means Mary has 4 times 7 black balloons.\nThat means Mary has 28 black balloons.\n\n-->\n\n28.0 END"
+    },
+    {
+        "prompt": "Benny goes to lunch with Sally and Sandy. The total bill came to 15 dollars. They decided to equally split up the bill, how much will each person have to pay ?\n\n###\n\n",
+        "completion": " First, we need to find the total bill. The total bill is 15 dollars. \n\nNext, we need to find out how much each person will have to pay. We do this by dividing the total bill by the number of people. In this case, there are three people, so we divide 15 by 3. This equals 5. \n\nTherefore, each person will have to pay 5 dollars.\n\n-->\n\n5.0 END"
+    },
+    {
+        "prompt": "Joan picked 43 apples from the orchard, and gave 27 apples  to  Melanie. How many apples does Joan have now ?\n\n###\n\n",
+        "completion": " Joan picked 43 apples from the orchard. So we start with 43 apples. Then, she gave 27 apples to Melanie. This means that she now has 27 less apples. So we take away 27 apples from the 43 apples she started with. This means that Joan now has 16 apples.\n\n-->\n\n16.0 END"
+    },
+    {
+        "prompt": "Tom has 30 violet balloons, he gave Fred 16 of the balloons. How many violet balloons does he now have ?\n\n###\n\n",
+        "completion": " Tom has 30 violet balloons. \nHe gave Fred 16 of the balloons. \n\nThis means that he gave away 16 balloons, and he has 14 balloons left.\n\n-->\n\n14.0 END"
+    },
+    {
+        "prompt": "Sandy sold lemonade in her neighborhood. She got 17 half-dollars on Saturday and 6 half-dollars on Sunday. What amount of money did Sandy receive?\n\n###\n\n",
+        "completion": " Sandy sold lemonade in her neighborhood.\n\nThis is the given information.\n\nShe got 17 half-dollars on Saturday and 6 half-dollars on Sunday.\n\nThis is the given information.\n\nWhat amount of money did Sandy receive?\n\nThis is what we are trying to find out.\n\n17 half-dollars is the same as 17 \u00d7 0.5 = 8.5 dollars. 6 half-dollars is the same as 6 \u00d7 0.5 = 3 dollars. So, Sandy received 8.5 + 3 = 11.5 dollars\n\n-->\n\n11.5 END"
+    },
+    {
+        "prompt": "A car company produced 3,884 cars in North America and 2,871 cars in Europe. How many cars is that in all?\n\n###\n\n",
+        "completion": " 3,884 cars in North America and 2,871 cars in Europe is the same as \n\n3,884 + 2,871 = \n\n6,755 cars in all.\n\n-->\n\n6755.0 END"
+    },
+    {
+        "prompt": "A multi-national corporation has 2,041 part-time employees and 63,093 full-time employees. How many employees work for the corporation?\n\n###\n\n",
+        "completion": " We are looking for the total number of employees for the corporation. \nWe are given the number of part-time and full-time employees. \nWe can add the number of part-time and full-time employees to get the total number of employees. \n\n2,041 + 63,093 = 65,134\n\n-->\n\n65134.0 END"
+    },
+    {
+        "prompt": "58 children are taking a bus to the zoo. They sit 2 children in every seat. How many seats will the children need in all?\n\n###\n\n",
+        "completion": " There are 2 children in every seat, so we can divide the total number of children by 2. \n58 \u00f7 2 = 29 \nSo we need 29 seats in all.\n\n-->\n\n29.0 END"
+    },
+    {
+        "prompt": "Elizabeth went to the salon and had 0.375 of an inch of hair cut off. The next day she went back and asked for another 0.5 of an inch to be cut off. How much hair did she have cut off in all?\n\n###\n\n",
+        "completion": " Elizabeth went to the salon and had 0.375 of an inch of hair cut off. \nThat means she had 0.375 inches of hair cut off the first day. \nThe next day she went back and asked for another 0.5 of an inch to be cut off. \nThat means she had 0.5 inches of hair cut off the second day. \n\nTo find the total amount of hair cut off, we need to add the two numbers together. \n\n0.375 + 0.5 = 0.875\n\nElizabeth had 0.875 inches of hair cut off\n\n-->\n\n0.875 END"
+    },
+    {
+        "prompt": "Upon arriving at the circus, they went to the ticket booth and asked how much each ticket cost. If each ticket costs 44 dollars and they bought 7 tickets, how much money did they spend on tickets?\n\n###\n\n",
+        "completion": " The first step is to calculate how much 7 tickets cost. \n\n7 tickets cost 44 * 7 = 308 dollars. \n\nThe second step is to calculate how much money they spent on tickets. \n\nThey spent 308 dollars on tickets.\n\n-->\n\n308.0 END"
+    },
+    {
+        "prompt": "The mini library also has a section for the classics. If Jack has a collection of 6 classic authors, with each author having 33 books, how many books does he have in the classics section?\n\n###\n\n",
+        "completion": " There are 6 authors, each with 33 books. \n6 x 33 = 198 \nSo Jack has 198 books in the classics section.\n\n-->\n\n198.0 END"
+    },
+    {
+        "prompt": "She counted her crayons and found out that she has 80 crayons which she will place in crayon boxes. Every box can contain 8 crayons. How many boxes does she need?\n\n###\n\n",
+        "completion": " There are 80 crayons. \nEvery box can contain 8 crayons. \n\nSo we need to divide 80 by 8. \n\n80 divided by 8 equals 10. \n\nThis means she will need 10 boxes.\n\n-->\n\n10.0 END"
+    },
+    {
+        "prompt": "Shiela has 6 neighbors who like to collect animal drawings. Shiela drew 54 animals on small pieces of paper. If she plans to give the same number of animal drawings to her neighbors, how many will each of them receive?\n\n###\n\n",
+        "completion": " Shiela has 6 neighbors. \nShiela drew 54 animals. \nShiela wants to give the same number of animal drawings to each of her neighbors. \n\nThat means that she wants to divide her 54 animals into 6 even groups. \n\n54 divided by 6 equals 9. \n\nThat means each neighbor will receive 9 animal drawings.\n\n-->\n\n9.0 END"
+    },
+    {
+        "prompt": "Brenda, Betty\u2019s sister, wanted to have 3 bracelets with star-shaped stones. She also bought 36 star-shaped stones from the local store and gave it to Betty. How many star-shaped stones will there be in each of the bracelet Betty makes for Brenda?\n\n###\n\n",
+        "completion": " Brenda wants 3 bracelets. \nEach bracelet has an unknown, but equal, number of star-shaped stones. \nBetty has 36 star-shaped stones. \n\nWe can set up an equation to solve this problem. \n\n3x = 36\n\nSince Brenda wants 3 bracelets, we want to know how many star-shaped stones are in each bracelet. We can solve for x. \n\nx = 12\n\nTherefore, each bracelet has 12 star-shaped stones.\n\n-->\n\n12.0 END"
+    },
+    {
+        "prompt": "Brenda\u2019s mother made cookies for 5. If she prepared 35 cookies and each of them had the same number of cookies, how many did each of them have?\n\n###\n\n",
+        "completion": " Brenda's mother made 35 cookies. \nWe know that she made them for 5 people. \nThat means that she made 7 cookies for each person.\n\n-->\n\n7.0 END"
+    },
+    {
+        "prompt": "Tom has 9 yellow balloons Sara has 8 yellow balloons . How many yellow balloons do they have in total ?\n\n###\n\n",
+        "completion": " Tom has 9 yellow balloons and Sara has 8 yellow balloons. So we can say that Tom has 9 more yellow balloons than Sara. Another way to think about it is that Tom has 9 yellow balloons and Sara has 8 yellow balloons, so they have a total of 9 + 8 = 17 yellow balloons.\n\n-->\n\n17 END"
+    },
+    {
+        "prompt": "Sam had 9 dimes in his bank . His dad gave him 7 dimes . How many dimes does Sam have now ?\n\n###\n\n",
+        "completion": " Sam had 9 dimes in his bank. \nHis dad gave him 7 dimes. \n\nThat means that Sam now has 9 + 7 = 16 dimes.\n\n-->\n\n16 END"
+    },
+    {
+        "prompt": "Joan found 6 seashells and Jessica found 8 seashells on the beach . How many seashells did they find together ?\n\n###\n\n",
+        "completion": " Joan found 6 seashells. \nThat means there are now 6 seashells that weren't there before. \n\nJessica found 8 seashells. \nThat means there are now 8 more seashells that weren't there before. \n\nSo, in total, they found 14 seashells.\n\n-->\n\n14 END"
+    },
+    {
+        "prompt": "Sally found 9 seashells , Tom found 7 seashells , and Jessica found 5 seashells on the beach . How many seashells did they find together ?\n\n###\n\n",
+        "completion": " Sally found 9 seashells, Tom found 7 seashells, and Jessica found 5 seashells. So, we can say that they found a total of 9 + 7 + 5 = 21 seashells.\n\n-->\n\n21 END"
+    },
+    {
+        "prompt": "Sam found 18 seashells and Mary found 47 seashells on the beach . How many seashells did they find together ?\n\n###\n\n",
+        "completion": " Step 1: How many seashells did Sam find?\n\nSam found 18 seashells.\n\nStep 2: How many seashells did Mary find?\n\nMary found 47 seashells.\n\nStep 3: How many seashells did they find together?\n\nThey found 65 seashells together.\n\n-->\n\n65 END"
+    },
+    {
+        "prompt": "Sandy grew 51 pumpkins . Mike grew 23 pumpkins . How many pumpkins did they grow in total ?\n\n###\n\n",
+        "completion": " Sandy grew 51 pumpkins. \nMike grew 23 pumpkins. \n\nThat means they grew a total of \n\n51 + 23 \n\npumpkins.\n\n-->\n\n74 END"
+    },
+    {
+        "prompt": "Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree . How many pears were picked in all ?\n\n###\n\n",
+        "completion": " Alyssa picked 42 pears. So we have 42 pears. \nNancy picked 17 pears. So we have 42 + 17 = 59 pears.\n\n-->\n\n59 END"
+    },
+    {
+        "prompt": "Jason has 676 Pokemon cards . Alyssa bought 224 of Jason 's Pokemon cards . How many Pokemon cards does Jason have now ?\n\n###\n\n",
+        "completion": " Jason had 676 Pokemon cards. \nAlyssa bought 224 of Jason's Pokemon cards. \nThat means Alyssa took some of Jason's Pokemon cards away. \nSo now, Jason has less Pokemon cards than he had before. \nThat means the answer is 676 - 224, which is 452.\n\n-->\n\n452 END"
+    },
+    {
+        "prompt": "Mary had 8 potatoes in the garden . The rabbits ate 3 of the potatoes . How many potatoes does Mary now have ?\n\n###\n\n",
+        "completion": " Mary had 8 potatoes in the garden. \nThe rabbits ate 3 of the potatoes. \n\nThat means that before the rabbits ate any potatoes, Mary had 8. And after the rabbits ate 3 potatoes, Mary is left with 8-3, or 5, potatoes.\n\n-->\n\n5 END"
+    },
+    {
+        "prompt": "Mary loves eating fruits . Mary paid $ 11.08 for berries , $ 14.33 for apples , and $ 9.31 for peaches . In total , how much money did she spend ?\n\n###\n\n",
+        "completion": " First, we need to find out how much money Mary spent on berries. We know that she paid $11.08 for berries, so we can just write that down. \n\nNext, we need to find out how much money Mary spent on apples. We know that she paid $14.33 for apples, so we can just write that down. \n\nFinally, we need to find out how much money Mary spent on peaches. We know that she paid $9.31 for peaches, so we can just write that down. \n\nTo find out how much money Mary spent in\n\n-->\n\n34.72 END"
+    },
+    {
+        "prompt": "A ship is filled with 5973 tons of cargo . It stops in the Bahamas , where sailors load 8723 tons of cargo onboard . How many tons of cargo does the ship hold now ?\n\n###\n\n",
+        "completion": " A ship is filled with 5973 tons of cargo. \n\nThat means it has 5973 tons of cargo onboard. \n\nIt stops in the Bahamas, where sailors load 8723 tons of cargo onboard. \n\nThat means it now has 5973 + 8723 = 14,696 tons of cargo onboard.\n\n-->\n\n14696.0 END"
+    },
+    {
+        "prompt": "Last year at Newberg 's airport , 14507 passengers landed on time . Unfortunately , 213 passengers landed late . In all , how many passengers landed in Newberg last year ?\n\n###\n\n",
+        "completion": " There were a total of 14507 + 213 = 14720 passengers that landed in Newberg last year.\n\n-->\n\n14720.0 END"
+    },
+    {
+        "prompt": "A worker at a medical lab is studying blood samples . 2 samples contained a total of 7341 blood cells . The first sample contained 4221 blood cells . How many blood cells were in the second sample ?\n\n###\n\n",
+        "completion": " The first sample contained 4221 blood cells. \nThat means the second sample contained 7341 - 4221 = 3120 blood cells.\n\n-->\n\n3120.0 END"
+    },
+    {
+        "prompt": "Students at Arcadia schools are participating in a coat drive . 9437 coats have been collected so far . 6922 coats were collected from the high schools , and the rest from the elementary schools . How many coats were collected at the elementary schools ?\n\n###\n\n",
+        "completion": " There are two types of schools: high schools and elementary schools. \nWe are told that 9437 coats have been collected in total. \nWe are told that 6922 coats were collected from the high schools. \n\nThis means that the remaining coats must have been collected from the elementary schools. \n\nTherefore, the number of coats collected at the elementary schools is 9437 - 6922 = 2515.\n\n-->\n\n2515.0 END"
+    },
+    {
+        "prompt": "A construction company is repaving a damaged road . So far , they have repaved a total of 4938 inches of the road . Today , they repaved 805 inches of the road . How many inches of the road had they repaved before today ?\n\n###\n\n",
+        "completion": " The company has repaved a total of 4938 inches of the road. \nToday, they repaved 805 inches of the road. \nSo before today, they had repaved 4938 - 805 = 4133 inches of the road.\n\n-->\n\n4133.0 END"
+    },
+    {
+        "prompt": "Last Saturday , Spencer walked all over town running errands . First , he walked 0.3 mile from his house to the library and 0.1 mile from the library to the post office . Then he walked 0.4 mile from the post office back home . How many miles did Spencer walk in all ?\n\n###\n\n",
+        "completion": " Spencer walked 0.3 miles from his house to the library. \nThen he walked 0.1 miles from the library to the post office. \nThen he walked 0.4 miles from the post office back home. \n\nIn total, Spencer walked 0.8 miles.\n\n-->\n\n0.8 END"
+    },
+    {
+        "prompt": "Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?\n\n###\n\n",
+        "completion": " Rosa called 10.2 pages of people last week. This week, she called 8.6 pages of people. In all, Rosa called 18.8 pages of people.\n\n-->\n\n18.8 END"
+    },
+    {
+        "prompt": "In March it rained 0.81 inches . It rained 0.35 inches less in April than in March . How much did it rain in April ?\n\n###\n\n",
+        "completion": " In March, it rained 0.81 inches. \nIn April, it rained 0.81 - 0.35 = 0.46 inches.\n\n-->\n\n0.46 END"
+    },
+    {
+        "prompt": "Brennan had 0.25 grams of pepper . Then he used 0.16 grams of the pepper to make some scrambled eggs . How much pepper does Brennan have ?\n\n###\n\n",
+        "completion": " Brennan had 0.25 grams of pepper. \nThen he used 0.16 grams of the pepper to make some scrambled eggs. \n\nThis means that Brennan now has 0.25 - 0.16 = 0.09 grams of pepper.\n\n-->\n\n0.09 END"
+    },
+    {
+        "prompt": "Gordon bought 3.42 pounds of fruit for a class party . The class ate 2.2 pounds of the fruit . How much fruit is ?\n\n###\n\n",
+        "completion": " Gordon bought 3.42 pounds of fruit. \nThe class ate 2.2 pounds of the fruit. \n\nThat means that there is 3.42 - 2.2 = 1.22 pounds of fruit left.\n\n-->\n\n1.22 END"
+    },
+    {
+        "prompt": "Sam has 86 yellow and 20 green marbles . Joan took 25 of Sam 's yellow marbles . How many yellow marbles does Sam now have ?\n\n###\n\n",
+        "completion": " First, Joan took 25 of Sam's yellow marbles. So we need to subtract 25 from 86. \n\n86 - 25 = \n\n61\n\n-->\n\n61 END"
+    },
+    {
+        "prompt": "Melanie picked 7 plums and 4 oranges from the orchard . She gave 3 plums to Sam . How many plums does she have now ?\n\n###\n\n",
+        "completion": " First, Melanie picked 7 plums and 4 oranges from the orchard. \nThen, she gave 3 plums to Sam. \nThat means she has 7 - 3 = 4 plums now.\n\n-->\n\n4 END"
+    },
+    {
+        "prompt": "Sandy 's dog had 8 puppies and 4 had spots . She gave 4 to her friends . How many puppies does she now have ?\n\n###\n\n",
+        "completion": " Sandy's dog had 8 puppies. \n4 of those puppies had spots. \nSandy gave 4 of those puppies to her friends. \n\nThis means that Sandy now has 4 puppies left.\n\n-->\n\n4 END"
+    },
+    {
+        "prompt": "Jessica grew 35 watermelons and 30 carrots , but the rabbits ate 27 watermelons . How many watermelons does Jessica have ?\n\n###\n\n",
+        "completion": " First, we need to find out how many watermelons the rabbits ate. We know that Jessica grew 35 watermelons, and that the rabbits ate 27 of them. So, we can subtract 27 from 35 to find out how many watermelons Jessica has. \n\n35 - 27 = 8\n\nSo, Jessica has 8 watermelons.\n\n-->\n\n8 END"
+    },
+    {
+        "prompt": "Joan has 47 green and 48 red marbles . Fred took 24 of Joan 's green marbles . How many green marbles does Joan now have ?\n\n###\n\n",
+        "completion": " Joan has 47 green marbles and 48 red marbles. Fred took 24 of Joan's green marbles. So Joan now has 47-24=23 green marbles.\n\n-->\n\n23 END"
+    },
+    {
+        "prompt": "Sam had 7 pennies and 8 dimes in his bank . His sister borrowed 4 dimes . How many dimes does Sam have now ?\n\n###\n\n",
+        "completion": " Sam had 7 pennies and 8 dimes in his bank. \nHis sister borrowed 4 dimes. \n\nThat means that his sister took 4 dimes from Sam, so now Sam has 4 less dimes. \n\nSo Sam has 8 - 4 = 4 dimes now.\n\n-->\n\n4 END"
+    },
+    {
+        "prompt": "Chloe was playing a trivia game. In the first round she scored 40 points and in the second round she scored 50 points. In the last round she lost 4 points. How many points did she have at the end of the game?\n\n###\n\n",
+        "completion": " In the first round, Chloe scored 40 points. \nIn the second round, she scored 50 points, which means she now has 40 + 50 = 90 points. \nIn the last round, she lost 4 points, which means she now has 90 - 4 = 86 points.\n\n-->\n\n86 END"
+    },
+    {
+        "prompt": "For the school bake sale Paige made pastries. She baked 36 cupcakes and 9 cookies. After the sale she had 4 to take back home. How many pastries did she sell?\n\n###\n\n",
+        "completion": " Paige made a total of 45 pastries. \nShe sold 41 pastries. \n4 pastries remained.\n\n-->\n\n41 END"
+    },
+    {
+        "prompt": "The school cafeteria ordered 33 red apples and 23 green apples for students lunches. But, if only 21 students wanted fruit, how many extra did the cafeteria end up with?\n\n###\n\n",
+        "completion": " There are 33 red apples and 23 green apples. \nIf 21 students wanted fruit, that would mean that 12 students wanted red apples and 9 students wanted green apples. \nHowever, since there are 33 red apples and 23 green apples, that would mean that the cafeteria would have 21 red apples left over and 14 green apples left over.\n\n-->\n\n35 END"
+    },
+    {
+        "prompt": "For Halloween Faye scored 47 pieces of candy. She ate 25 pieces the first night and then her sister gave her 40 more pieces. How many pieces of candy does Faye have now?\n\n###\n\n",
+        "completion": " Faye had 47 pieces of candy. \nShe ate 25 pieces. \nThat means she has 47-25=22 pieces of candy left. \nThen her sister gave her 40 more pieces. \nThat means she has 22+40=62 pieces of candy now.\n\n-->\n\n62 END"
+    },
+    {
+        "prompt": "A waiter had 14 customers to wait on. If 3 customers left and he got another 39 customers, how many customers would he have?\n\n###\n\n",
+        "completion": " The waiter had 14 customers to wait on. \nIf 3 customers left, that means he would have 11 customers left. \nIf he got another 39 customers, that means he would have 50 customers in total.\n\n-->\n\n50 END"
+    },
+    {
+        "prompt": "Sam had 10 socks. If he threw away 3 old ones that didn't fit and bought 36 new ones, how many socks would he have?\n\n###\n\n",
+        "completion": " Sam had 10 socks. \nHe threw away 3 old ones that didn't fit. \nThat means he has 10 - 3 = 7 socks left. \nHe bought 36 new ones. \nThat means he has 7 + 36 = 43 socks in total.\n\n-->\n\n43 END"
+    },
+    {
+        "prompt": "Robin had 30 songs on her mp3 player. If she deleted 8 old songs from it and then added 10 new songs, how many songs does she have on her mp3 player?\n\n###\n\n",
+        "completion": " Robin has 30 songs on her mp3 player. \nShe deleted 8 old songs from it. \nThat means she has 30 - 8 = 22 songs on her mp3 player. \nShe added 10 new songs to it. \nThat means she has 22 + 10 = 32 songs on her mp3 player.\n\n-->\n\n32 END"
+    },
+    {
+        "prompt": "In fourth grade there were 11 students at the start of the year. During the year 6 students left and 42 new students came to school. How many students were in fourth grade at the end?\n\n###\n\n",
+        "completion": " There were 11 students at the start of the year. \n6 students left, which means there were 5 students remaining. \n42 new students came to school, which means there were 47 students in fourth grade at the end.\n\n-->\n\n47 END"
+    },
+    {
+        "prompt": "For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have?\n\n###\n\n",
+        "completion": " Chloe made 28 cupcakes.\nShe sold 25 of them. \nThat means she has 3 cupcakes left. \nShe made 8 more. \nThat means she has 11 cupcakes in total.\n\n-->\n\n11 END"
+    },
+    {
+        "prompt": "There were 2 friends playing a video game online when 2 more players joined the game. If each player had 6 lives, how many lives did they have total?\n\n###\n\n",
+        "completion": " There were 2 friends playing a video game online. \nEach player had 6 lives. \n2 more players joined the game. \n\nThat means there are now 4 players in the game. \nEach player has 6 lives. \n\n4 players x 6 lives = 24 lives\n\n-->\n\n24 END"
+    },
+    {
+        "prompt": "Tom and his friend were buying trick decks from the magic shop for 8 dollars each. How much did they spend if Tom bought 3 decks and his friend bought 5 decks?\n\n###\n\n",
+        "completion": " Tom buys 3 decks. That's 3*8=24 dollars. \nHis friend buys 5 decks. That's 5*8=40 dollars. \nSo the total amount they spent is 3*8+5*8=24+40=64 dollars.\n\n-->\n\n64 END"
+    },
+    {
+        "prompt": "While shopping for music online, Megan bought 2 country albums and 8 pop albums. Each album came with a lyric sheet and had 7 songs. How many songs did Megan buy total?\n\n###\n\n",
+        "completion": " There are 2 country albums. Each album has 7 songs. So that's 2 x 7 = 14 songs. \nThere are 8 pop albums. Each album has 7 songs. So that's 8 x 7 = 56 songs. \nNow we just have to add 14 + 56 and we get our answer: \n14 + 56 = 70\n\n-->\n\n70 END"
+    },
+    {
+        "prompt": "Olivia was playing a video game where she scores 8 points for each treasure she finds. If she found 2 treasures on the first level and 2 on the second, what would her score be?\n\n###\n\n",
+        "completion": " Olivia scores 8 points for each treasure she finds. \nShe found 2 treasures on the first level. \nThat means she scored 8 points for the first treasure, and 8 more points for the second treasure. \nSo far, she has scored 16 points. \n\nNow let's move on to the second level. \n\nOlivia found 2 treasures on the second level. \nThat means she scored 8 points for the first treasure, and 8 more points for the second treasure. \nNow her total score is 16 + 16, or 32 points.\n\n-->\n\n32 END"
+    },
+    {
+        "prompt": "At Tom's Restaurant a group with 2 adults and 5 children came in to eat. If each meal cost 8 dollars, how much was the bill?\n\n###\n\n",
+        "completion": " There are 2 adults and 5 children. \nThat means there are 7 people in total. \nEach meal costs 8 dollars. \nSo we need to multiply 8 dollars by 7 people. \nThat means the bill is 56 dollars.\n\n-->\n\n56 END"
+    },
+    {
+        "prompt": "While shopping for music online, Nancy bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Nancy buy total?\n\n###\n\n",
+        "completion": " Nancy bought 3 country albums. Each album has 8 songs. So she bought 24 songs from the country albums. \n\nNancy bought 5 pop albums. Each album has 8 songs. So she bought 40 songs from the pop albums. \n\nNancy bought a total of 24 + 40 = 64 songs.\n\n-->\n\n64 END"
+    },
+    {
+        "prompt": "Sam was collecting cans for recycling. On Saturday he filled 3 bags up and on Sunday he filled 4 more bags. If each bag had 9 cans in it, how many cans did he pick up total?\n\n###\n\n",
+        "completion": " On Saturday, Sam collected 3 bags of cans. \nEach bag had 9 cans in it. \nThat means Sam collected 9 cans per bag, and 3 bags in total. \nThat means Sam collected 27 cans on Saturday. \n\nOn Sunday, Sam collected 4 bags of cans. \nEach bag had 9 cans in it. \nThat means Sam collected 9 cans per bag, and 4 bags in total. \nThat means Sam collected 36 cans on Sunday. \n\nNow we can add the total number of cans Sam collected on Saturday and Sunday. \n\n27 + 36 =\n\n-->\n\n63 END"
+    },
+    {
+        "prompt": "April's discount flowers was having a sale where each flower was 6 dollars. If Maria bought 7 roses and 3 daisies, how much did she spend?\n\n###\n\n",
+        "completion": " We know that each flower is $6. \nWe know that Maria bought 7 roses and 3 daisies. \n\nThat means that she spent $6 x 7 = $42 on roses, and $6 x 3 = $18 on daisies. \n\nTo find the total amount she spent, we just need to add those two numbers together: $42 + $18 = $60.\n\n-->\n\n60 END"
+    },
+    {
+        "prompt": "While playing at the arcade, Edward won 3 tickets playing 'whack a mole' and 5 tickets playing 'skee ball'. If he was trying to buy candy that cost 4 tickets a piece, how many could he buy?\n\n###\n\n",
+        "completion": " 3 tickets + 5 tickets = 8 tickets\n8 tickets / 4 tickets per candy = 2 candies\n\n-->\n\n2 END"
+    },
+    {
+        "prompt": "A magician was selling magic card decks for 5 dollars each. If he started with 14 decks and by the end of the day he had 5 left, how much money did he earn?\n\n###\n\n",
+        "completion": " The magician started with 14 decks. \nFor every deck that the magician sold, he earned $5. \nBy the end of the day, the magician had 5 decks left. \n\nThis means that the magician must have sold 9 decks. \n\nTherefore, the magician earned $45.\n\n-->\n\n45 END"
+    },
+    {
+        "prompt": "A chef needs to cook 15 potatoes. He has already cooked 6. If each potato takes 8 minutes to cook, how long will it take him to cook the rest?\n\n###\n\n",
+        "completion": " A chef needs to cook 15 potatoes. He has already cooked 6. \n\nThat means he still needs to cook 9 more potatoes. \n\nIf each potato takes 8 minutes to cook, \n\nthen it will take him 8 minutes multiplied by 9 more potatoes, \n\nor 8 minutes multiplied by 9, \n\nwhich is 72 minutes.\n\n-->\n\n72 END"
+    },
+    {
+        "prompt": "In a video game, each enemy defeated gives you 8 points. If a level has 7 enemies total and you destroy all but 2 of them, how many points would you earn?\n\n###\n\n",
+        "completion": " Each enemy defeated gives you 8 points. \nIf a level has 7 enemies total and you destroy all but 2 of them, you would have defeated 5 enemies. \n5 enemies x 8 points = 40 points\n\n-->\n\n40 END"
+    },
+    {
+        "prompt": "At the fair Adam bought 10 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Adam spend riding the ferris wheel?\n\n###\n\n",
+        "completion": " Adam bought 10 tickets. \nAfter riding the ferris wheel, he had 3 tickets left. \n\nThis means that he used 7 tickets to ride the ferris wheel. \n\nEach ticket cost 9 dollars. \n\nThis means that he spent 63 dollars riding the ferris wheel.\n\n-->\n\n63 END"
+    },
+    {
+        "prompt": "At a restaurant each adult meal costs $2 and kids eat free. If a group of 9 people came in and 2 were kids, how much would it cost for the group to eat?\n\n###\n\n",
+        "completion": " There are 9 people in the group. 2 of them are kids. That means there are 7 adults. \nEach adult meal costs $2. \n7 adults x $2 per adult meal = $14\nSo the total cost for the group to eat is $14.\n\n-->\n\n14 END"
+    },
+    {
+        "prompt": "There are 65 students trying out for the school's trivia teams. If 17 of them didn't get picked for the team and the rest were put into 8 groups, how many students would be in each group?\n\n###\n\n",
+        "completion": " There are 65 students trying out for the school's trivia teams. \n17 of them didn't get picked for the team. \nThat means that 48 students were picked for the team. \nIf the 48 students were put into 8 groups, then each group would have 6 students.\n\n-->\n\n6 END"
+    },
+    {
+        "prompt": "Megan had 40 homework problems. She finished 26 of them but still had 2 pages of problems to do. If each page has the same number of problems on it, how many problems are on each page?\n\n###\n\n",
+        "completion": " Megan had 40 homework problems. She finished 26 of them. \nThat means she had 14 homework problems left. \nWe know that she had 2 pages of problems left, and each page has the same number of problems on it. \nThat means that there are 7 problems on each page.\n\n-->\n\n7 END"
+    },
+    {
+        "prompt": "Mike made 42 dollars mowing lawns over the summer. If he spent 10 dollars buying new mower blades, how many 8 dollar games could he buy with the money he had left?\n\n###\n\n",
+        "completion": " Mike made $42 mowing lawns. \nHe spent $10 on new mower blades. \nThat leaves him with $32. \nEach game costs $8, so he could buy 4 games.\n\n-->\n\n4 END"
+    },
+    {
+        "prompt": "A pet store had 102 puppies. In one day they sold 21 of them and put the rest into cages with 9 in each cage. How many cages did they use?\n\n###\n\n",
+        "completion": " There are 102 puppies. \n21 of them were sold, so that means there are 81 puppies left. \n81 is not divisible by 9, so that means there is 1 puppy left over, and the rest can go into cages with 9 puppies in each. \nThat means there are 9 cages in total.\n\n-->\n\n9 END"
+    },
+    {
+        "prompt": "Luke was selling his old games. He started out with 57 but sold 39 of them. He packed the rest up putting 2 games into each box. How many boxes did he have to use?\n\n###\n\n",
+        "completion": " Luke started out with 57 games. \nHe sold 39 of them. \nThat means he has 18 games left. \nSince he's packing 2 games into each box, that means he'll need 9 boxes in total.\n\n-->\n\n9 END"
+    },
+    {
+        "prompt": "Anna goes trick-or-treating in a subdivision where she gets 14 pieces of candy per house. Her brother Billy goes trick-or-tricking in a neighboring subdivision where he gets 11 pieces of candy per house. If the first subdivision has 60 houses and the second subdivision has 75 houses, how many more pieces of candy does Anna get?\n\n###\n\n",
+        "completion": " Anna gets 14 pieces of candy per house. \nThere are 60 houses in the first subdivision. \nAnna gets 60 * 14 = 840 pieces of candy from the first subdivision. \n\nBilly gets 11 pieces of candy per house. \nThere are 75 houses in the second subdivision. \nBilly gets 75 * 11 = 825 pieces of candy from the second subdivision. \n\nAnna gets 840 pieces of candy and Billy gets 825 pieces of candy. \nAnna gets 840 - 825 = 15 more pieces of candy than Billy.\n\n-->\n\n15 END"
+    },
+    {
+        "prompt": "John buys a box of 40 light bulbs.  He uses 16 of them and then gives half of what is left to a friend.  How many does he have left?\n\n###\n\n",
+        "completion": " John buys a box of 40 light bulbs. He uses 16 of them and then gives half of what is left to a friend.\n\nJohn has 24 light bulbs left. He gives half of them to a friend, so he has 12 light bulbs left.\n\n-->\n\n12 END"
+    },
+    {
+        "prompt": "At football tryouts, the coach wanted to see who could throw the ball the farthest.  Parker threw the ball 16 yards.  Grant threw the ball 25 percent farther than Parker and Kyle threw the ball 2 times farther than Grant.  Compared to Parker, how much farther did Kyle throw the ball?\n\n###\n\n",
+        "completion": " Grant threw the ball 25% farther than Parker. So if we take Parker's 16 yards, and add 25% to it, we get 20 yards. \n\nKyle threw the ball 2 times farther than Grant. So if we take Grant's 20 yards, and multiply it by 2, we get 40 yards. \n\nTherefore, Kyle threw the ball 40 yards, which is 24 yards more than Parker.\n\n-->\n\n24 END"
+    },
+    {
+        "prompt": "Arwen and Elrond picked some flowers. Arwen was able to get 20 tulips and Elrond was able to get twice as many tulips as Arwen did. How many tulips were they able to get in total?\n\n###\n\n",
+        "completion": " Arwen picked 20 tulips. \nElrond picked twice as many tulips as Arwen did. \n\nThat means Elrond picked 40 tulips. \n\nSo in total, Arwen and Elrond picked 60 tulips.\n\n-->\n\n60 END"
+    },
+    {
+        "prompt": "Mehki is 10 years older than Jordyn. Jordyn's age is double Zrinka's age. If Zrinka is 6 years old, how many years old is Mehki?\n\n###\n\n",
+        "completion": " Jordyn's age is double Zrinka's age. So if Zrinka is 6 years old, Jordyn is 12 years old. \n\nMehki is 10 years older than Jordyn. So if Jordyn is 12 years old, Mehki is 22 years old.\n\n-->\n\n22 END"
+    },
+    {
+        "prompt": "Aaron pays his actuary membership fees each year. The membership fee increases yearly by $10. If he pays $80 in the first year, how much does his membership cost, in dollars, in the sixth year?\n\n###\n\n",
+        "completion": " In the first year, he pays $80. In the second year, he pays $90. In the third year, he pays $100. In the fourth year, he pays $110. In the fifth year, he pays $120. So in the sixth year, he pays $130.\n\n-->\n\n130 END"
+    },
+    {
+        "prompt": "Farmer Brown fed 7 chickens and 5 sheep. How many total legs were there among the animals he fed?\n\n###\n\n",
+        "completion": " First, we need to find the number of legs for each type of animal. \nFor chickens, we know that each chicken has 2 legs. So we have 2 times 7, which is 14. \nFor sheep, we know that each sheep has 4 legs. So we have 4 times 5, which is 20. \nNow we need to add these two numbers together to get our final answer. \n14 + 20 is 34. \nSo the total number of legs among the animals that Farmer Brown fed is 34.\n\n-->\n\n34 END"
+    },
+    {
+        "prompt": "Anthony keeps a bottle of vinegar in his cupboard for 2 years. Each year 20% of the vinegar evaporates. What percent of the vinegar is left after 2 years?\n\n###\n\n",
+        "completion": " After 1 year, 80% of the vinegar is left. \nAfter 2 years, 80% of 80%, or 64%, is left. \n\nTherefore, the answer is 64%.\n\n-->\n\n64 END"
+    },
+    {
+        "prompt": "Chris bought 8 movies on DVD for $12 each and 4 movies on Blu-ray for $18 each. What is the average price he paid per movie?\n\n###\n\n",
+        "completion": " There are a total of 12 movies. \n8 of them cost $12 each, so the total cost of those 8 movies is $96. \n4 of them cost $18 each, so the total cost of those 4 movies is $72. \n\nTo find the average price per movie, we need to add up the total cost of all the movies and divide by the number of movies. \n\n$96 + $72 = $168\n\n$168 \u00f7 12 = $14\n\nThe average price per movie is $14.\n\n-->\n\n14 END"
+    },
+    {
+        "prompt": "Jenny is working on a school project. She spends 10 hours doing research for the project and 2 hours writing a proposal. If she has 20 hours total to work on the project, how many hours does she have left to write her report?\n\n###\n\n",
+        "completion": " First, Jenny spends 10 hours doing research for the project. This leaves her with 20 - 10 = 10 hours. \nThen, Jenny spends 2 hours writing a proposal. This leaves her with 10 - 2 = 8 hours. \n\nSo, Jenny has 8 hours left to write her report.\n\n-->\n\n8 END"
+    },
+    {
+        "prompt": "Three towns, Toadon, Gordonia, and Lake Bright, have 80000 people. Gordonia has 1/2 times the total population in the three cities. If the population of Toadon is 60 percent of Gordonia's population, how many people live in Lake Bright?\n\n###\n\n",
+        "completion": " Gordonia has 1/2 times the total population in the three cities. \nThat means that Gordonia has 1/2(80000)=40000 people. \n\nToadon has 60 percent of Gordonia's population. \nThat means that Toadon has 60%(40000)=24000 people. \n\nNow we just have to solve for Lake Bright. We know that the total population is 80000. We also know that Toadon has 24000 people and Gordonia has 40000 people. \n\n80000-40000-24000=16000\n\nTherefore\n\n-->\n\n16000 END"
+    },
+    {
+        "prompt": "Nate starts his camping trip with 70 matches. He drops 10 in a creek and his dog eats twice as many. How many matches does he have left?\n\n###\n\n",
+        "completion": " Nate starts with 70 matches. \nHe loses 10 in a creek. \nThat means he now has 60 matches. \nThen his dog eats twice as many, which would be 20 matches. \nThat would leave him with 40 matches in the end.\n\n-->\n\n40 END"
+    },
+    {
+        "prompt": "Steve spends 1/3 of the day sleeping, 1/6 of the day in school, 1/12 of the day making assignments, and the rest of the day with his family. How many hours does Steve spend with his family in a day?\n\n###\n\n",
+        "completion": " 1/3 of the day is 8 hours. \n1/6 of the day is 4 hours. \n1/12 of the day is 2 hours. \n\n8 + 4 + 2 = 14 hours \n\n24 - 14 = 10 hours\n\n-->\n\n10 END"
+    },
+    {
+        "prompt": "Lee had $10 and his friend had $8. They went to a restaurant where they ordered chicken wings for $6 and a chicken salad for $4. They also got 2 sodas for $1.00 each. The tax came to $3. How much change should they have received in total?\n\n###\n\n",
+        "completion": " Lee and his friend had a total of $18. \nThey spent $6 on chicken wings and $4 on a chicken salad. \nThat leaves them with $8. \nThey spent $2 on 2 sodas. \nThat leaves them with $6. \nThe tax was $3. \nThat leaves them with $3 in change.\n\n-->\n\n3 END"
+    },
+    {
+        "prompt": "If Pam is currently twice as young as Rena is, and in 10 years Rena will be 5 years older than her, how old is Pam now?\n\n###\n\n",
+        "completion": " We know that Pam is currently twice as young as Rena. So, if we let x represent Rena's age, we can set up the equation:\n\n2x = Pam's age\n\nWe also know that in 10 years, Rena will be 5 years older than Pam. So, we can set up another equation:\n\n2x + 10 = x + 5\n\nWe can solve for x in the first equation, and plug that value into the second equation. \n\n2x = x + 5\n2x - x = x + 5 - x\nx = 5\n\nNow we\n\n-->\n\n5 END"
+    },
+    {
+        "prompt": "John takes a pill every 6 hours.  How many pills does he take a week?\n\n###\n\n",
+        "completion": " How many pills does he take in a day?  There are 24 hours in a day, and he takes a pill every 6 hours, so he takes 4 pills in a day.  There are 7 days in a week, so he takes 4 pills times 7 days, or 28 pills in a week.\n\n-->\n\n28 END"
+    },
+    {
+        "prompt": "A fruit stand is selling apples for $2 each. Emmy has $200 while Gerry has $100. If they want to buy apples, how many apples can Emmy and Gerry buy altogether?\n\n###\n\n",
+        "completion": " Emmy has $200. She can buy 100 apples. \nGerry has $100. He can buy 50 apples. \n\n100 + 50 = 150 apples.\n\n-->\n\n150 END"
+    },
+    {
+        "prompt": "At the height of cranberry season, there are 60000 cranberries in a bog. 40% are harvested by humans and another 20000 are eaten by elk. How many cranberries are left?\n\n###\n\n",
+        "completion": " At the height of cranberry season, there are 60,000 cranberries in a bog. \n\n40% of 60,000 is equal to 24,000. So, 24,000 cranberries are harvested by humans. \n\nAnother 20,000 cranberries are eaten by elk. \n\nThis leaves 60,000 - 24,000 - 20,000, which is equal to 16,000 cranberries.\n\n-->\n\n16000 END"
+    },
+    {
+        "prompt": "What should come in place of the question mark (?) in the following equation?\n9568 \u2013 6548 \u2013 1024 = ? Answer choices: (A) 2086, (B) 1996, (C) 2293, (D) 1896, (E) None of these.\n\n###\n\n",
+        "completion": " 9568 - 6548 = 3020\n3020 - 1024 = 1996\n\nThe answer is B.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "If 60 J of energy are available for every 15 C of charge, what is the voltage? Answer choices: (A) 4V, (B) 3V, (C) 7V, (D) 9, (E) 2.\n\n###\n\n",
+        "completion": " We know that we have 60 J of energy for every 15 C of charge. \nWe also know that 1 J = 1 V * 1 C. \nTherefore, we can say that 60 J = 60 V * 1 C. \nNow we just need to divide both sides by 15 C to get the voltage. \n\n60 J / 15 C = 4 V \n\nTherefore, the answer is (A) 4 V.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "On a Monday in a certain restaurant, 20 percent of the 170 customers ordered the daily special. On Tuesday, only 10 percent of the 120 customers ordered the special. For the two days combined, what percent of the customers ordered the daily special? Answer choices: (A) 15%, (B) 16%, (C) 18%, (D) 23%, (E) 30%.\n\n###\n\n",
+        "completion": " On Monday, 170 customers came in. \n20% of them ordered the daily special. \nThat means that (20/100)*170 = 34 people ordered the daily special on Monday. \n\nOn Tuesday, 120 customers came in. \n10% of them ordered the daily special. \nThat means that (10/100)*120 = 12 people ordered the daily special on Tuesday. \n\nFor the two days combined, that means that a total of 46 people ordered the daily special. \n\nNow we just have to figure out what percent of the customers that came in over the\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "In a certain game, a large bag is filled with blue, green, purple and red chips worth 1, 5, x and 11 points each, respectively. The purple chips are worth more than the green chips, but less than the red chips. A certain number of chips are then selected from the bag. If the product of the point values of the selected chips is 28160, how many purple chips were selected? Answer choices: (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.\n\n###\n\n",
+        "completion": " The product of the point values of the selected chips is 28160. \n\nSince the product is even, we know that an even number of chips must have been selected. \n\nSince 1 * 5 * 11 = 55, we know that at least one of each type of chip must have been selected. \n\nThis means that the only possible combination is 1 blue chip, 1 green chip, 1 purple chip, and 2 red chips. \n\nTherefore, the answer is (C).\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "A, B, C subscribe Rs. 50,000 for a business, A Subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 70,000, A receives : Answer choices: (A) 14700, (B) 24703, (C) 29400, (D) 33777, (E) 34778.\n\n###\n\n",
+        "completion": " First, we need to calculate the total amount of money that A, B, and C have invested in the business. We are told that A has invested Rs. 50,000, B has invested Rs. 5000 more than C, and A has invested Rs. 4000 more than B. This means that: \n\nB has invested Rs. 50,000 - 5000 = Rs. 45,000 \nC has invested Rs. 45,000 - 4000 = Rs. 41,000\n\nTherefore, the total amount of money that A, B, and C have invested is Rs. 50,000 + Rs\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "Which of the following equations has a root in common with x^2\u22124x=0 ? Answer choices: (A) x^2-4x+4=0, (B) x^2-2x+1=0, (C) x^2-3x+2=0, (D) x^2-7x+6=0, (E) x^2-9x=0.\n\n###\n\n",
+        "completion": " The first equation is x^2-4x=0. This equation has a root of x=0. \nThe second equation is x^2-2x+1=0. This equation has a root of x=1. \nThe third equation is x^2-3x+2=0. This equation has a root of x=2. \nThe fourth equation is x^2-7x+6=0. This equation has a root of x=6. \nThe fifth equation is x^2-9x=0. This equation has a root of\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "The distance between Delhi and Mathura is 155 kms. A starts from Delhi with a speed of 20 kmph at 7 a.m. for Mathura and B starts from Mathura with a speed of 25 kmph at 8 p.m. from Delhi. When will they meet? Answer choices: (A) 10.50 a.m., (B) 11.00 a.m., (C) 10.30 a.m., (D) 11.40 a.m., (E) 1.40 a.m..\n\n###\n\n",
+        "completion": " A starts from Delhi at 7 a.m. \nB starts from Mathura at 8 p.m. \n\nThis means that B has been travelling in the opposite direction of A for 12 hours. \n\nIn 12 hours, A has travelled 20 * 12 = 240 km. \nIn 12 hours, B has travelled 25 * 12 = 300 km. \n\nThis means that B has travelled 300 - 240 = 60 km more than A. \n\nSince the total distance between Delhi and Mathura is 155 km, this means that B has to travel an additional 60 - 155 = -\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Income and expenditure of a person are in the ratio 5 : 3. If the income of the person is Rs. 10000, then find his savings? Answer choices: (A) Rs.4000, (B) Rs.3603, (C) Rs.3639, (D) Rs.3632, (E) Rs.3602.\n\n###\n\n",
+        "completion": " The person's income is Rs.10000. \nThe person's expenditure is Rs.6000. \nThe person's savings is Rs.4000.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How much did the candy bar cost?\n\n###\n\n",
+        "completion": " Dan had $3 left with him after he bought a candy bar. \n\nThat means he spent $4 - $3 = $1 on the candy bar.\n\n-->\n\n1.0 END"
+    },
+    {
+        "prompt": "Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?\n\n###\n\n",
+        "completion": " Jack received 4 emails in the morning. Then, he received 5 more emails. So, Jack received 9 emails in the morning and afternoon. Finally, he received 8 more emails in the evening. So, Jack received a total of 17 emails today.\n\n-->\n\n13.0 END"
+    },
+    {
+        "prompt": "After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?\n\n###\n\n",
+        "completion": " There were 39 paintings in the Buckingham palace. \nThere, Rachel learned that 661 visitors came to the Buckingham palace that day. \nIf there were 600 visitors the previous day, \nthen we can say that 661-600=61 more visitors visited the Buckingham palace on that day than on the previous day.\n\n-->\n\n61.0 END"
+    },
+    {
+        "prompt": "22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus. How many children got off the bus at the bus stop?\n\n###\n\n",
+        "completion": " There were 22 children on the bus to start. \nThen 40 children got on the bus. \nThat means there must have been 22 + 40 = 62 children at the bus stop. \nSome children got off the bus, so the number of children on the bus decreased. \nNow there are 2 children on the bus. \n\nThat means that 62 - 2 = 60 children got off the bus at the bus stop.\n\n-->\n\n60.0 END"
+    },
+    {
+        "prompt": "Josh had 9 marbles in his collection. He lost some marbles. If he has 4 marbles now How many marbles did he lose?\n\n###\n\n",
+        "completion": " Josh had 9 marbles. \nJosh lost some marbles. \nThat means the number of marbles Josh has now is less than 9. \nThe only number that is less than 9 and is 4 more than 0 is 4. \nTherefore, Josh lost 5 marbles.\n\n-->\n\n5.0 END"
+    },
+    {
+        "prompt": "For Gwen's birthday she received 2 dollars from her mom. Her dad gave her 4 more dollars. If she spent 3 dollars. How much money did she still have?\n\n###\n\n",
+        "completion": " Gwen's mom gave her 2 dollars. \nGwen's dad gave her 4 more dollars. \nThat means she had a total of 2+4=6 dollars. \nIf she spent 3 dollars, she would have 3 dollars left.\n\n-->\n\n3.0 END"
+    },
+    {
+        "prompt": "Nell collects baseball cards. She gave 301 of her cards to Jeff and now has 154 cards left.. How many cards did Nell have initially?\n\n###\n\n",
+        "completion": " Nell has 154 cards left. She gave 301 of her cards to Jeff. \nNell had 301 + 154 = 455 cards in total.\n\n-->\n\n455.0 END"
+    },
+    {
+        "prompt": "A mailman has to give 25 pieces of junk mail to each block. If he gives 5 mails to each house in a block How many houses are there in a block?\n\n###\n\n",
+        "completion": " The mailman has to give 25 pieces of junk mail to each block. \nThat means if the mailman gives 5 pieces of junk mail to each house, he would have given away 25 pieces of junk mail after visiting 5 houses. \nTherefore, if the mailman has to give 25 pieces of junk mail to each block, he would have to visit 5 houses in a block.\n\n-->\n\n5.0 END"
+    },
+    {
+        "prompt": "41 campers went rowing and 4 campers went hiking in the morning. 26 campers went rowing in the afternoon. How many campers went rowing and hiking in all?\n\n###\n\n",
+        "completion": " How many campers went rowing in the morning? 41. \nHow many campers went hiking in the morning? 4. \nHow many campers went rowing in the afternoon? 26. \nHow many campers went rowing and hiking in all? 41 + 4 + 26 = 71.\n\n-->\n\n71.0 END"
+    },
+    {
+        "prompt": "Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf. How many more books than action figures were on his shelf?\n\n###\n\n",
+        "completion": " Jerry had 7 books and 3 action figures on a shelf in his room. \n\nThat means that there were 4 more books than action figures. \n\nLater he added 2 more action figures to the shelf. \n\nThat means that there are now 2 more books than action figures.\n\n-->\n\n2.0 END"
+    },
+    {
+        "prompt": "White t - shirts can be purchased in packages. If mom buys 28 packages which contain 56 white t - shirts in total How many white t - shirts does each package have?\n\n###\n\n",
+        "completion": " First, we need to find out how many t-shirts are in each package. \nThere are 28 packages in total, and each package has 56 t-shirts. \nWe can divide 28 into 56 to find out how many t-shirts are in each package. \n28 divided by 56 equals 0.5. \nThis means that each package has 0.5 t-shirts.\n\n-->\n\n2.0 END"
+    },
+    {
+        "prompt": "Allan brought 5 balloons. If Allan and Jake brought total of 6 balloons to the park How many balloons did Jake bring to the park?\n\n###\n\n",
+        "completion": " Allan brought 5 balloons. \n\nThat means Jake brought 1 balloon.\n\n-->\n\n1.0 END"
+    },
+    {
+        "prompt": "Jake has 11 fewer peaches than Steven. If Jake has 17 peaches. How many peaches does Steven have?\n\n###\n\n",
+        "completion": " Jake has 11 fewer peaches than Steven. \nThat means that if we start with the number of peaches that Jake has, and add 11, we'll get the number of peaches that Steven has. \n\nJake has 17 peaches. \nThat means that if we start with 17 and add 11, we'll get 28. \n\nSteven has 28 peaches.\n\n-->\n\n28.0 END"
+    },
+    {
+        "prompt": "Paige raised 15 goldfish in the pond but stray cats loved eating them. 5 were eaten. How many goldfish remained?\n\n###\n\n",
+        "completion": " Paige raised 15 goldfish in the pond. \n\n5 were eaten. \n\nThis means that 5 were taken away from the original 15. \n\nSo, the answer is that 10 goldfish remained.\n\n-->\n\n10.0 END"
+    },
+    {
+        "prompt": "Frank was reading through his favorite book. The book had 392 pages and he read 14 pages per day. How many days did he take to finish the book?\n\n###\n\n",
+        "completion": " Frank reads 14 pages per day. \nThat means he can read 392 pages in 392/14 days, which is equal to 28 days.\n\n-->\n\n28.0 END"
+    },
+    {
+        "prompt": "Some children were riding on the bus. At the bus stop 2 more children got on the bus. Then there were 41 children altogether on the bus. How many children were riding on the bus before the bus stop?\n\n###\n\n",
+        "completion": " There were 2 more children that got on the bus. \nThat means that there were 2 children that were at the bus stop. \nThat means that before the bus stop, there were 39 children on the bus.\n\n-->\n\n39.0 END"
+    },
+    {
+        "prompt": "Because of the decision Sofia asked the students to suggest specific types of food. If 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes How many students participated in the suggestion of new food items?\n\n###\n\n",
+        "completion": " There are 324 students who suggested adding mashed potatoes. \nThere are 374 students who suggested adding bacon. \nThere are 128 students who suggested adding tomatoes. \n\nThere are a total of 324 + 374 + 128 = 826 students who participated in the suggestion of new food items.\n\n-->\n\n826.0 END"
+    },
+    {
+        "prompt": "52 campers went rowing in the morning. 61 campers went rowing in the afternoon. How many more campers went rowing in the afternoon than in the morning?\n\n###\n\n",
+        "completion": " 52 campers went rowing in the morning. 61 campers went rowing in the afternoon. How many more campers went rowing in the afternoon than in the morning?\n\nThere were 9 more campers rowing in the afternoon than in the morning.\n\n-->\n\n9.0 END"
+    },
+    {
+        "prompt": "Randy uses 36 blocks to build a tower. If he had 59 blocks How many blocks are left?\n\n###\n\n",
+        "completion": " Randy uses 36 blocks to build a tower. \n\nThat means he has 36 blocks left. \n\nIf he had 59 blocks, \n\nthat means he would have 23 blocks left.\n\n-->\n\n23.0 END"
+    },
+    {
+        "prompt": "If each bag has 3 cookies and you had 21 cookies in total How many bags of cookies do you have?\n\n###\n\n",
+        "completion": " 3 cookies per bag means that if we have 1 bag, we have 3 cookies. \nIf we have 2 bags, we have 6 cookies. \nIf we have 3 bags, we have 9 cookies. \nIf we have 4 bags, we have 12 cookies. \nIf we have 5 bags, we have 15 cookies. \nIf we have 6 bags, we have 18 cookies. \nIf we have 7 bags, we have 21 cookies. \nTherefore, we have 7 bags of cookies.\n\n-->\n\n7.0 END"
+    },
+    {
+        "prompt": "Jesse needs a carpet of size 10 square feet to cover her room. If her room is 5 feet long What is the width of her room?\n\n###\n\n",
+        "completion": " We know that the area of a rectangle is length times width, so we can set that up as an equation: \n\nA = lw\n\nWe also know that the area is 10 square feet. So we can plug that in for A: \n\n10 = lw\n\nWe also know that the length is 5 feet. So we can plug that in for l: \n\n10 = 5w\n\nNow we just have to solve for w. We can do that by dividing both sides by 5: \n\n2 = w\n\nSo the width of the room is 2\n\n-->\n\n2.0 END"
+    },
+    {
+        "prompt": "Where would someone likely bring an attache case? Answer choices: (A) overhead compartment, (B) chair, (C) hospital, (D) in shirt, (E) business meeting.\n\n###\n\n",
+        "completion": " An attache case is a type of suitcase, so it would make sense to bring it with you on a trip. It would go in the overhead compartment on an airplane, or in the trunk of a car. It would be too big to carry around in your shirt pocket, so (D) is not the correct answer. An attache case is usually used for carrying important documents, so it would make sense to bring it to a business meeting. This is the correct answer.\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "What would a bee like as a gift? Answer choices: (A) bouquet of flowers, (B) trash can, (C) pizza, (D) sky, (E) united states.\n\n###\n\n",
+        "completion": " What does a bee need? \n\nA bee needs food, water, and a place to live. \n\nSo, a bee would like a gift that provides food, water, or a place to live. \n\nA bouquet of flowers would provide food for the bee. A trash can would provide a place for the bee to live. A pizza would not provide food, water, or a place to live for the bee. The sky would not provide food, water, or a place to live for the bee. The United States would not provide food, water, or a place to live for the bee.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Where might a person go if they need urgent care for a wound? Answer choices: (A) body, (B) injury, (C) patient, (D) emergency room, (E) hospital.\n\n###\n\n",
+        "completion": " If someone has a wound, they might go to the doctor. If it's an emergency, they might go to the emergency room. \n\nThe answer is D.\n\n-->\n\nD END"
+    },
+    {
+        "prompt": "She loved the music so much, how did she describe it? Answer choices: (A) silent, (B) express emotion, (C) beautifull, (D) irritate, (E) quiet mind.\n\n###\n\n",
+        "completion": " First, we need to identify what is being asked in the question. The question asks how the woman described the music. \n\nNext, we need to look at the answer choices. Out of the answer choices, (B) express emotion, (C) beautifull, and (E) quiet mind are the only ones that could possibly describe how the woman felt about the music. \n\nNow, we need to look at the context clues in the sentence to help us choose the best answer. The sentence says that the woman loved the music, which means she must have felt positively about it. Therefore,\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "Jimmy kept his double edged razor where he could use it easily.  It was where? Answer choices: (A) cricket ground, (B) medicine cabinet, (C) first aid kit, (D) chemist, (E) shaving kit.\n\n###\n\n",
+        "completion": " Jimmy wanted to be able to use his double edged razor easily, so it wouldn't be hidden away somewhere.  That narrows it down to (B), (C), and (E).\nNow, a double edged razor is a pretty old-fashioned tool.  It's the kind of thing that your grandpa might use.  So it's probably not in Jimmy's first aid kit or his chemist.  That leaves (B), the medicine cabinet.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "What happens when a child reads something? Answer choices: (A) balloon, (B) become adult, (C) learn, (D) clean room, (E) loved.\n\n###\n\n",
+        "completion": " A child reads something.\n\nThe child learns from what they read.\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "The hot dogs were selling fast at intermission, where were they being sold? Answer choices: (A) park, (B) disneyland, (C) apartment, (D) cows, (E) sporting event.\n\n###\n\n",
+        "completion": " If the hot dogs were selling fast, that means people were buying them. People buy hot dogs from vendors. Vendors are usually found in high traffic areas with a lot of people. The most likely answer is (E) sporting event.\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "What can drinking alcohol in excess to the point of poisoning cause? Answer choices: (A) death, (B) disorientation, (C) frequent urination, (D) having sex, (E) bad breath.\n\n###\n\n",
+        "completion": " Drinking alcohol in excess can lead to poisoning, which in turn can lead to death. Disorientation, frequent urination, and bad breath are all symptoms of intoxication, but they are not necessarily indicative of poisoning. Having sex is not a symptom of intoxication or poisoning.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Where would you play a trumpet and have to walk the entire time? Answer choices: (A) music store, (B) music shop, (C) drill team, (D) brass band, (E) marching band.\n\n###\n\n",
+        "completion": " Where would you play a trumpet? \n\nThe answer choices are (A) music store, (B) music shop, (C) drill team, (D) brass band, and (E) marching band. \n\nSince you have to walk the entire time, this narrows down the choices to (C) drill team, (D) brass band, and (E) marching band. \n\nA drill team is a group of people who march in formation while performing routines. A brass band is a band that is composed entirely of brass instruments. A marching band is a band that performs while marching.\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "When you haven't seen someone since they were young and years have passed what has happened to them? Answer choices: (A) senior, (B) grow, (C) mature, (D) old, (E) aged.\n\n###\n\n",
+        "completion": " First, you haven't seen someone since they were young. This means that they were young the last time you saw them, but they are not young now. \n\nSecond, years have passed. This means that a lot of time has gone by since you last saw this person. \n\nSo, what has happened to them? They have grown, matured, and aged.\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "Where can a vegetarian restaurant be found? Answer choices: (A) san francisco, (B) anywhere, (C) downtown, (D) most cities, (E) in the country.\n\n###\n\n",
+        "completion": " A vegetarian restaurant is a type of restaurant, so it would be found in the same places as any other restaurant. That narrows it down to (B), (C), (D), and (E). A quick Google search shows that there are vegetarian restaurants in all of those places, so the answer is (B).\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Where is the best place to get furniture from? Answer choices: (A) room, (B) store, (C) warehouse, (D) loft, (E) rug.\n\n###\n\n",
+        "completion": " You need furniture for your room, so (A) is not correct. You could buy furniture from a (B) store, or get it from a (C) warehouse, (D) loft, or (E) rug. However, the best answer is (B) store.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Why do you need faith in religion? Answer choices: (A) unknowable, (B) confusing, (C) wars, (D) both positive and negative, (E) afterlife.\n\n###\n\n",
+        "completion": " First, what is faith? \n\nOne definition of faith is \"belief in something for which there is no proof.\" So, when you have faith in something, you believe in it even though there is no concrete evidence that it is true. \n\nNow, why might someone need faith in religion? \n\nThere are a few possible reasons. One reason might be that some aspects of religion are unknowable. That is, there is no way to know for sure whether or not they are true. For example, we can't know for sure whether or not there is a God. So, someone\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Where do you mix things on a counter? Answer choices: (A) mixer stand, (B) candy store, (C) kitchen, (D) butcher shop, (E) post office.\n\n###\n\n",
+        "completion": " You need a place to put a mixer, so (A) is incorrect. You also need some counter space. (B) and (D) don't have counter space, so they're out. That leaves (C) and (E). The post office doesn't seem like a likely place to mix things, so (E) is probably not the answer we're looking for. That means the answer must be (C), the kitchen.\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "What separates a bay from the water? Answer choices: (A) shoreline, (B) coast, (C) coastal area, (D) lake, (E) manhattan.\n\n###\n\n",
+        "completion": " A bay is a body of water that is partially enclosed by land. So, the land is what separates a bay from the water. The answer is (A) shoreline.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Do most middle class families have butlers?\n\n###\n\n",
+        "completion": " First, what is a \"butler\"? A butler is \"a male servant in a large household\" (Oxford Dictionary). \n\nNext, what is a \"middle class family\"? A middle class family is a family whose \"income falls between the upper and lower class thresholds\" (Investopedia). \n\nSo, do most middle class families have butlers? No, most middle class families would not have butlers because having a butler is a luxury that requires a lot of money.\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Did Ada Lovelace die tragically young for her era?\n\n###\n\n",
+        "completion": " Ada Lovelace was born in 1815 and died in 1852. The average life expectancy in the early 19th century was about 40 years. So, Ada Lovelace died young for her era, but not tragically young.\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Did Clark Gable marry more women once than Richard Burton?\n\n###\n\n",
+        "completion": " Clark Gable was married five times. \nRichard Burton was married seven times. \n\nTherefore, Richard Burton married more women than Clark Gable.\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Is radioactive waste a plot device for many shows?\n\n###\n\n",
+        "completion": " First, what is radioactive waste? It's waste that contains radioactive materials. \n\nSecond, what are radioactive materials? They are materials that emit radiation. \n\nThird, what is radiation? Radiation is energy that travels through the air or through space. \n\nNow, let's think about how this might be used as a plot device in a show. \n\nOne way might be to have a character who is exposed to radioactive waste, and as a result, begins to emit radiation themselves. This could be used to create a sense of suspense or danger, as the character begins to pose a threat\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Was Snoop Dogg an adult when Tickle Me Elmo was popular?\n\n###\n\n",
+        "completion": " Snoop Dogg was born in 1971. \nTickle Me Elmo was popular in 1996. \n\nThis means that Snoop Dogg was 25 years old when Tickle Me Elmo was popular.\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Can you find a railroad engineer on TNT?\n\n###\n\n",
+        "completion": " First, we need to identify what a railroad engineer is. A railroad engineer is someone who operates a train. \n\nNext, we need to find a show on TNT that features a railroad engineer. The show \"Snowpiercer\" features a railroad engineer. \n\nFinally, we need to find an episode of \"Snowpiercer\" that features a railroad engineer. The episode \"First, the Weather\" features a railroad engineer.\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Were there fifty English kings throughout the Middle Ages?\n\n###\n\n",
+        "completion": " In 1066, England was conquered by the Normans, so the first Norman king was William the Conqueror.  After the Norman Conquest, there were a total of seven Norman kings.  In 1087, William the Conqueror died, and his son William II became king.  In 1100, William II died, and his brother Henry I became king.  In 1135, Henry I died, and his nephew Stephen became king.  In 1154, Stephen died, and Henry II, son of Geoffrey Plantagenet, became king.  In 1189, Henry II died, and his son Richard I became king\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Is metal a type of folk music?\n\n###\n\n",
+        "completion": " First, let's consider what folk music is. Folk music is a type of music that is passed down orally within a community. It is typically simple in form and is meant to be sung or played by anyone within the community, without the need for formal training. \n\nNow, let's consider metal. Metal is a type of music that is typically characterized by its heavy sound and use of electric guitars. It is often considered to be a more aggressive and intense type of music than other genres. \n\nSo, based on the definitions of each type of music, it is safe to say that metal is not\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Could Eddie Murphy dial 911 in a car as a young child?\n\n###\n\n",
+        "completion": " Eddie Murphy is a young child.\nA young child cannot drive a car.\nIf a young child cannot drive a car, then he or she cannot dial 911 while in a car.\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Is clerk of Supreme Court of Canada safe profession for someone with seismophobia?\n\n###\n\n",
+        "completion": " The Supreme Court of Canada is located in Ottawa, which is in Canada's seismically active zone. The last major earthquake in the area was in 1935. There is a small chance of an earthquake happening while you are working, but it is not likely. If an earthquake did happen, it is unlikely that it would be strong enough to cause serious damage to the building. So, overall, being a clerk of the Supreme Court of Canada is a safe profession for someone with seismophobia.\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Was the French Revolution televised?\n\n###\n\n",
+        "completion": " The first public television broadcast in France was in 1931. The French Revolution happened in 1789. So, no, the French Revolution was not televised.\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Would a sesame seed be mistaken for a wood frog egg?\n\n###\n\n",
+        "completion": " First, let's look at the size. A sesame seed is about 2 mm in diameter, while a wood frog egg is about 5 mm in diameter. So, right away we can see that a sesame seed is much smaller than a wood frog egg. \n\nNext, let's look at the shape. A sesame seed is round and smooth, while a wood frog egg is oval and has a ridged surface. So, the shape is also quite different. \n\nFinally, let's look at the color. A sesame seed is typically a light brown color, while a wood frog egg\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Could Elizabeth I of England have seen the play Dido, Queen of Carthage ?\n\n###\n\n",
+        "completion": " First, we need to know when the play was written. It was most likely written between 1583 and 1587. \n\nNext, we need to know when Elizabeth I was queen. She became queen in 1558 and died in 1603. \n\nSo, it is possible that Elizabeth I could have seen the play Dido, Queen of Carthage.\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Would a TMNT coloring book have pizza in it?\n\n###\n\n",
+        "completion": " The Teenage Mutant Ninja Turtles are known for their love of pizza. \n\nA coloring book is a book with line drawings that can be colored in. \n\nSo, it is likely that a TMNT coloring book would have pizza in it.\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Could James Brown's ex-wives hold a doubles game of tennis?\n\n###\n\n",
+        "completion": " First, we need to know how many ex-wives James Brown had. According to this article, James Brown had at least four ex-wives. \n\nSecond, we need to know if they are all still alive. According to this article, two of James Brown's ex-wives are still alive. \n\nSo, based on the information we have, it is possible that James Brown's ex-wives could hold a doubles game of tennis.\n\n-->\n\nYes END"
+    },
+    {
+        "prompt": "Does Robert De Niro use a microscope at work?\n\n###\n\n",
+        "completion": " First, we need to consider what Robert De Niro's job is. Robert De Niro is an actor. \n\nNext, we need to think about whether or not actors typically use microscopes as part of their job. It's unlikely that actors use microscopes as part of their job, since microscopes are usually used for scientific purposes. \n\nTherefore, it's probably safe to say that Robert De Niro does not use a microscope at work.\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Would kaffir lime be good in a White Russian?\n\n###\n\n",
+        "completion": " A White Russian is made with vodka, coffee liqueur, and cream. \nKaffir lime is a citrus fruit with a strong, acidic flavor. \n\nSo, no, kaffir lime would not be good in a White Russian.\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Does Carl Linnaeus share the same final resting place as Michael Jackson?\n\n###\n\n",
+        "completion": " First, we need to find out where Carl Linnaeus is buried. A quick Google search tells us that he is buried in Uppsala Cathedral in Sweden. \n\nNext, we need to find out where Michael Jackson is buried. A quick Google search tells us that he is buried at Forest Lawn Memorial Park in Glendale, California. \n\nSo, no, Carl Linnaeus does not share the same final resting place as Michael Jackson.\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Can Simon Cowell vote for the next Supreme Court judge?\n\n###\n\n",
+        "completion": " First, the President nominates someone to the Supreme Court. Then, the Senate Judiciary Committee holds hearings on the nominee. After the hearings, the committee votes on whether or not to send the nominee to the full Senate. If the committee votes in favor, the nominee goes to the full Senate for a vote. A simple majority of Senators (51 out of 100) is needed to confirm a nominee.\n\nNow, let's think about Simon Cowell. He is not a member of the Senate, so he cannot vote on the nominee. He is also not a member of the Senate Judiciary Committee, so he cannot vote\n\n-->\n\nNo END"
+    },
+    {
+        "prompt": "Yesterday was April 30, 2021. What is the date 24 hours later in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 05/03/2021, (B) 05/02/2020, (C) 04/04/2021, (D) 05/02/2021, (E) 05/02/2000, (F) 05/02/2022.\n\n###\n\n",
+        "completion": " Yesterday was April 30, 2021. 24 hours later would be May 1, 2021. Therefore, the correct answer is (D) 05/02/2021.\n\n-->\n\nD END"
+    },
+    {
+        "prompt": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 05/31/1993, (B) 07/07/2021, (C) 05/31/2021, (D) 05/30/2021, (E) 05/17/2021, (F) 06/01/2021.\n\n###\n\n",
+        "completion": " The deadline is Jun 1, 2021, which is 2 days away from now. Today is May 30, 2021. So, tomorrow is May 31, 2021. Therefore, the answer is (C).\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "It is 4/19/1969 today. What is the date one week from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 05/11/1969, (B) 04/05/1969, (C) 04/26/1969, (D) 05/14/1969, (E) 04/27/1969, (F) 04/25/1969.\n\n###\n\n",
+        "completion": " The day of the week one week from today is Friday. \n\nToday is Thursday, so one week from today is Friday. \n\nThe date one week from today is 04/26/1969.\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 03/17/2017, (B) 03/25/2017, (C) 02/20/2017, (D) 03/01/2017, (E) 03/01/2076, (F) 03/01/2116.\n\n###\n\n",
+        "completion": " Jane's 16th birthday is on 02/28/2017. The day after her 16th birthday is 02/29/2017. Since February only has 28 days, in a leap year like 2016, the 29th day of February is skipped and March 1st is considered the day after February 28th. Therefore, the date tomorrow in MM/DD/YYYY is 03/01/2017.\n\n-->\n\nD END"
+    },
+    {
+        "prompt": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 02/16/1933, (B) 12/21/2009, (C) 11/30/2009, (D) 02/16/2010, (E) 02/06/2010, (F) 05/24/2010.\n\n###\n\n",
+        "completion": " Jane visits the bookstore on the 16th of each month. \nThe 5th visit would be the 16th of the 5th month. \nThe 5th month is May. \nTherefore, the date today is 05/16/2010. \n\nThe answer is D.\n\n-->\n\nD END"
+    },
+    {
+        "prompt": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one week from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 03/20/2002, (B) 11/19/2002, (C) 03/26/2002, (D) 03/19/2002, (E) 05/13/2002.\n\n###\n\n",
+        "completion": " Jane thinks today is 3/11/2002, which is one day off. So, if we add one day, today would be 3/12/2002. One week from today would be 3/19/2002. Therefore, the answer is (D).\n\n-->\n\nD END"
+    },
+    {
+        "prompt": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date 24 hours later in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 03/05/1972, (B) 03/02/1973, (C) 04/05/1973, (D) 01/02/1973, (E) 03/06/1973, (F) 03/08/1983.\n\n###\n\n",
+        "completion": " Jane sees a meteor shower on 3/5. The next day is 3/6. So, the answer is (E).\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 04/07/2003, (B) 05/07/2002, (C) 05/07/2036, (D) 05/28/2002, (E) 04/16/2002.\n\n###\n\n",
+        "completion": " Jane says that May 6, 1992 is like yesterday, which means it is very recent to her. However, that date was actually ten years ago. Therefore, the date tomorrow in MM/DD/YYYY format would be 05/07/2002.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 12/25/2006, (B) 12/11/1937, (C) 07/25/1937, (D) 12/04/1937, (E) 01/04/1938, (F) 12/25/1937.\n\n###\n\n",
+        "completion": " Today is December 24, 1937. \n\nThe day after December 24 is December 25. \n\nTherefore, tomorrow's date is December 25, 1937. \n\nThe answer is (F).\n\n-->\n\nF END"
+    },
+    {
+        "prompt": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 02/02/2020, (B) 11/08/2019, (C) 05/02/2019, (D) 01/23/2020, (E) 01/19/2020, (F) 02/01/2020.\n\n###\n\n",
+        "completion": " The day is a palindrome because the MMDDYYYY format of the date is the same backwards as forwards. \n\nThe day is today, so today's date is a palindrome. \n\nThe date today is 02/02/2020. \n\nTherefore, the answer is A.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "This is the last day of 1899. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 01/01/1899, (B) 02/06/1900, (C) 01/01/1900, (D) 01/22/1900, (E) 01/08/1900, (F) 01/01/1827.\n\n###\n\n",
+        "completion": " The last day of 1899 is December 31, 1899. \nThe next day is January 1, 1900. \n\nTherefore, the answer is C.\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one year ago from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 07/03/1942, (B) 06/23/1942, (C) 06/30/1942, (D) 06/02/1942, (E) 06/09/1942, (F) 09/02/1942.\n\n###\n\n",
+        "completion": " The concert was scheduled to be on 06/01/1943. \nIt was delayed by one day to today. \n\nToday is one day after 06/01/1943. Therefore, one year ago from today is 06/02/1942. \n\nThe answer is (D).\n\n-->\n\nD END"
+    },
+    {
+        "prompt": "The current local time is 3:02 pm of 5/4/2004. What is the date today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 05/05/2004, (B) 05/03/2004, (C) 05/04/2005, (D) 04/28/2004, (E) 05/04/2004, (F) 05/11/2004.\n\n###\n\n",
+        "completion": " The current local time is 3:02 pm. \nThe current local time is 15:02. \nIt is currently 3:02 pm on May 4th, 2004. \nToday's date is 05/04/2004.\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "The current local time is 3:02 pm of 5/4/2004. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 02/15/2004, (B) 05/05/2004, (C) 05/05/1915, (D) 05/04/2004, (E) 05/06/2004, (F) 01/05/2005.\n\n###\n\n",
+        "completion": " The current local time is 3:02 pm of 5/4/2004. \n\nThat means it is currently May 4th. \n\nTomorrow would be May 5th. \n\nTherefore, the date tomorrow in MM/DD/YYYY is 05/05/2004.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "The current local time is 3:02 pm of 5/4/2004. What is the date one week ago from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 04/27/2004, (B) 04/24/2004, (C) 04/28/2004, (D) 04/27/2003, (E) 05/27/2004, (F) 05/18/2004.\n\n###\n\n",
+        "completion": " The current local time is 3:02 pm of 5/4/2004. \n\nThat means it is currently May 4th, 2004. \n\nIf we go back one week, that would be April 27th, 2004. \n\nTherefore, the answer is (A).\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Today is the second day of the third month of 1966. What is the date one year ago from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 03/02/1965, (B) 03/02/2012, (C) 11/02/1964, (D) 01/07/1965, (E) 03/01/1965, (F) 03/12/1965.\n\n###\n\n",
+        "completion": " The day is the second. \nThe month is the third. \nThe year is 1966. \n\nTo find the date one year ago, we need to subtract one year from the year. So, the year would be 1965. \n\nThe month is the third. \nThe day is the second. \n\nTherefore, the answer is 03/02/1965.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Today is 9/7. Jane is watching NFL 2003. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 09/08/1916, (B) 09/01/2003, (C) 09/08/2003, (D) 09/13/2003, (E) 08/18/2003, (F) 09/15/2003.\n\n###\n\n",
+        "completion": " Today is September 7th. Jane is watching NFL 2003. The year is 2003. So, tomorrow's date would be September 8th, 2003, which would be written as 09/08/2003.\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one year ago from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 10/15/1923, (B) 10/06/1923, (C) 07/11/1923, (D) 10/14/1923, (E) 09/16/1923, (F) 10/13/1923.\n\n###\n\n",
+        "completion": " The meeting is rescheduled to 11 am tomorrow, 10/16/1924. \n\nThat means that today is 10/15/1924. \n\nOne year ago from today would be 10/15/1923. \n\nTherefore, the answer is (A).\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 08/22/1925, (B) 10/21/1924, (C) 10/07/1924, (D) 10/22/1944, (E) 10/22/1924, (F) 11/21/1924.\n\n###\n\n",
+        "completion": " One week from today would be 10/23/1924. However, the meeting is rescheduled to tomorrow, 10/16/1924. Therefore, one week from the rescheduled meeting would be 10/23/1924. The answer is (E).\n\n-->\n\nE END"
+    },
+    {
+        "prompt": "It was Sept. 1st, 2021 a week ago. What is the date one year ago from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 09/07/2020, (B) 08/31/2020, (C) 07/08/2020, (D) 08/18/2020, (E) 09/08/2049, (F) 09/08/2020.\n\n###\n\n",
+        "completion": " One year ago from today would be September 1, 2020. \n\nHowever, the question asks for the date in MM/DD/YYYY format. \n\nTherefore, the answer is 09/01/2020.\n\n-->\n\nF END"
+    },
+    {
+        "prompt": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 10/14/1960, (B) 12/03/1960, (C) 01/11/1961, (D) 01/03/1982, (E) 01/18/1961, (F) 01/03/1961.\n\n###\n\n",
+        "completion": " The couple married on January 2, 1958. \n\nFive years later would be January 2, 1963. \n\nTherefore, the day after their 5-year anniversary would be January 3, 1963. \n\nThe answer is (F).\n\n-->\n\nF END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a pink ball, Bob has a brown ball, and Claire has a orange ball. \n\nAs the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Alice and Bob swap balls. Finally, Bob and Claire swap balls. At the end of the game, Claire has the \nWhich choice is true? Answer choices: (A) pink ball, (B) brown ball, (C) orange ball.\n\n###\n\n",
+        "completion": " First, Claire and Alice swap balls. This means that Claire now has the pink ball, and Alice has the orange ball. \n\nThen, Alice and Bob swap balls. This means that Alice now has the brown ball, and Bob has the orange ball. \n\nFinally, Bob and Claire swap balls. This means that Bob now has the pink ball, and Claire has the orange ball. \n\nAt the end of the game, Claire has the orange ball. Therefore, the correct answer is (C).\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a yellow ball, Bob has a green ball, and Claire has a blue ball. \n\nAs the game progresses, pairs of players trade balls. First, Alice and Bob swap balls. Then, Alice and Claire swap balls. Finally, Claire and Bob swap balls. At the end of the game, Claire has the \nWhich choice is true? Answer choices: (A) yellow ball, (B) green ball, (C) blue ball.\n\n###\n\n",
+        "completion": " First, Alice and Bob swap balls. This means that after the swap, Alice has the green ball and Bob has the yellow ball. \n\nThen, Alice and Claire swap balls. This means that after the swap, Alice has the blue ball and Claire has the green ball. \n\nFinally, Claire and Bob swap balls. This means that after the swap, Claire has the yellow ball and Bob has the blue ball. \n\nAt the end of the game, Claire has the yellow ball and Bob has the blue ball. Therefore, the correct answer is (A).\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a black ball, and Claire has a green present. \n\nAs the event progresses, pairs of people swap gifts. First, Alice and Bob swap their gifts. Then, Alice and Claire swap their gifts. Finally, Claire and Bob swap their gifts. At the end of the event, Claire has the \nWhich choice is true? Answer choices: (A) blue present, (B) black ball, (C) green present.\n\n###\n\n",
+        "completion": " First, Alice and Bob swap their gifts. This means that Alice now has the black ball, and Bob now has the blue present. \n\nThen, Alice and Claire swap their gifts. This means that Alice now has the green present, and Claire now has the black ball. \n\nFinally, Claire and Bob swap their gifts. This means that Claire now has the blue present, and Bob now has the green present. \n\nAt the end of the event, Claire has the blue present.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a pink ball, and Claire has a red present. \n\nAs the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Alice and Claire swap their gifts. Finally, Alice and Bob swap their gifts. At the end of the event, Alice has the \nWhich choice is true? Answer choices: (A) green present, (B) pink ball, (C) red present.\n\n###\n\n",
+        "completion": " First, Bob and Claire swap their gifts. This means that Bob now has the red present, and Claire has the pink ball. \n\nThen, Alice and Claire swap their gifts. This means that Alice now has the pink ball, and Claire has the green present. \n\nFinally, Alice and Bob swap their gifts. This means that Alice now has the red present, and Bob has the green present. \n\nTherefore, the answer is (C).\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right midfielder, and Claire is playing goalkeeper. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Claire and Alice trade positions. Finally, Bob and Claire trade positions. At the end of the match, Bob is playing \nWhich choice is true? Answer choices: (A) striker, (B) right midfielder, (C) goalkeeper.\n\n###\n\n",
+        "completion": " First, Claire and Bob trade positions. So now, Bob is playing goalkeeper, and Claire is playing right midfielder. \n\nThen, Claire and Alice trade positions. So now, Alice is playing right midfielder, and Claire is playing striker. \n\nFinally, Bob and Claire trade positions. So now, Bob is playing striker, and Claire is playing goalkeeper. \n\nAt the end of the match, Bob is playing striker. Therefore, the answer is (A).\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing right midfielder, and Claire is playing cheerleader. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Bob and Claire trade positions. Then, Claire and Alice trade positions. Finally, Bob and Alice trade positions. At the end of the match, Claire is playing \nWhich choice is true? Answer choices: (A) fullback, (B) right midfielder, (C) cheerleader.\n\n###\n\n",
+        "completion": " First, Bob and Claire trade positions. So now Claire is playing right midfielder, and Bob is playing cheerleader. \n\nThen, Claire and Alice trade positions. So now Alice is playing right midfielder, and Claire is playing fullback. \n\nFinally, Bob and Alice trade positions. So now Alice is playing cheerleader, and Bob is playing fullback. \n\nAt the end of the match, Claire is playing fullback.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing benchwarmer, and Claire is playing fullback. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Alice and Claire trade positions. Then, Alice and Bob trade positions. Finally, Alice and Claire trade positions. At the end of the match, Claire is playing \nWhich choice is true? Answer choices: (A) center midfielder, (B) benchwarmer, (C) fullback.\n\n###\n\n",
+        "completion": " First, Alice and Claire trade positions. So now Alice is playing fullback and Claire is playing center midfielder. \n\nThen, Alice and Bob trade positions. So now Alice is playing benchwarmer and Bob is playing fullback. \n\nFinally, Alice and Claire trade positions again. So now Alice is playing fullback and Claire is playing benchwarmer. \n\nAt the end of the match, Claire is playing benchwarmer.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing goalkeeper, and Claire is playing left winger. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Claire and Alice trade positions. Then, Bob and Claire trade positions. Finally, Alice and Claire trade positions. At the end of the match, Bob is playing \nWhich choice is true? Answer choices: (A) right midfielder, (B) goalkeeper, (C) left winger.\n\n###\n\n",
+        "completion": " First, Claire and Alice trade positions. This means that Claire is now playing right midfielder, and Alice is playing left winger. \n\nThen, Bob and Claire trade positions. This means that Bob is now playing left winger, and Claire is playing goalkeeper. \n\nFinally, Alice and Claire trade positions. This means that Alice is now playing goalkeeper, and Claire is playing right midfielder. \n\nAt the end of the match, Bob is playing right midfielder.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing right midfielder, and Claire is playing fullback. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Alice and Claire trade positions. Finally, Bob and Claire trade positions. At the end of the match, Claire is playing \nWhich choice is true? Answer choices: (A) right winger, (B) right midfielder, (C) fullback.\n\n###\n\n",
+        "completion": " First, Bob and Alice trade positions. So now Alice is playing right midfielder, and Bob is playing right winger. \n\nThen, Alice and Claire trade positions. So now Alice is playing fullback, and Claire is playing right midfielder. \n\nFinally, Bob and Claire trade positions. So now Bob is playing fullback, and Claire is playing right winger. \n\nAt the end of the match, Claire is playing right winger.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing cheerleader, and Claire is playing left midfielder. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Claire and Alice trade positions. Finally, Bob and Claire trade positions. At the end of the match, Alice is playing \nWhich choice is true? Answer choices: (A) fullback, (B) cheerleader, (C) left midfielder.\n\n###\n\n",
+        "completion": " First, Claire and Bob trade positions. This means that Claire is now playing cheerleader, and Bob is now playing left midfielder. \n\nThen, Claire and Alice trade positions. This means that Claire is now playing fullback, and Alice is now playing cheerleader. \n\nFinally, Bob and Claire trade positions. This means that Bob is now playing fullback, and Claire is now playing left midfielder. \n\nAt the end of the match, Alice is playing cheerleader.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, and Claire is playing goalkeeper. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Bob and Alice trade positions. Finally, Alice and Claire trade positions. At the end of the match, Alice is playing \nWhich choice is true? Answer choices: (A) striker, (B) right winger, (C) goalkeeper.\n\n###\n\n",
+        "completion": " First, Claire and Bob trade positions. So now, Claire is playing right winger and Bob is playing goalkeeper. \n\nThen, Bob and Alice trade positions. So now, Bob is playing striker and Alice is playing goalkeeper. \n\nFinally, Alice and Claire trade positions. So now, Alice is playing right winger and Claire is playing striker. \n\nAt the end of the match, Alice is playing right winger.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing cheerleader, and Claire is playing center midfielder. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Alice and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Alice is playing \nWhich choice is true? Answer choices: (A) goalkeeper, (B) cheerleader, (C) center midfielder.\n\n###\n\n",
+        "completion": " First, Bob and Alice trade positions. So now Alice is playing cheerleader and Bob is playing goalkeeper. \n\nThen, Alice and Claire trade positions. So now Alice is playing center midfielder and Claire is playing cheerleader. \n\nFinally, Alice and Bob trade positions. So now Alice is playing goalkeeper and Bob is playing center midfielder. \n\nAt the end of the match, Alice is playing goalkeeper.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing right winger, and Claire is playing benchwarmer. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Alice and Claire trade positions. Then, Claire and Bob trade positions. Finally, Bob and Alice trade positions. At the end of the match, Claire is playing \nWhich choice is true? Answer choices: (A) center midfielder, (B) right winger, (C) benchwarmer.\n\n###\n\n",
+        "completion": " First, Alice and Claire trade positions. This means that Alice is now playing benchwarmer, and Claire is now playing center midfielder. \n\nThen, Claire and Bob trade positions. This means that Claire is now playing right winger, and Bob is now playing benchwarmer. \n\nFinally, Bob and Alice trade positions. This means that Bob is now playing center midfielder, and Alice is now playing right winger. \n\nAt the end of the match, Claire is playing right winger. Therefore, the correct answer is (B).\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Pearl, and Claire gets The Odyssey. \n\nAs the semester proceeds, they start trading around the new books. First, Bob and Alice swap books. Then, Bob and Claire swap books. Finally, Bob and Alice swap books. At the end of the semester, Bob has  \nWhich choice is true? Answer choices: (A) Frankenstein, (B) The Pearl, (C) The Odyssey.\n\n###\n\n",
+        "completion": " First, Bob and Alice swap books. So now Alice has The Pearl and Bob has Frankenstein. \n\nThen, Bob and Claire swap books. So now Claire has Frankenstein and Bob has The Odyssey. \n\nFinally, Bob and Alice swap books. So now Alice has The Odyssey and Bob has The Pearl. \n\nAt the end of the semester, Bob has The Pearl.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Odyssey, and Claire gets Lolita. \n\nAs the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Alice and Claire swap books. Finally, Bob and Claire swap books. At the end of the semester, Bob has  \nWhich choice is true? Answer choices: (A) The Great Gatsby, (B) The Odyssey, (C) Lolita.\n\n###\n\n",
+        "completion": " Alice starts with The Great Gatsby. \nShe swaps with Bob, so she now has The Odyssey. \nShe swaps with Claire, so she now has Lolita. \n\nBob starts with The Odyssey. \nHe swaps with Alice, so he now has The Great Gatsby. \nHe swaps with Claire, so he now has Lolita. \n\nClaire starts with Lolita. \nShe swaps with Alice, so she now has The Great Gatsby. \nShe swaps with Bob, so she now has The Odyssey. \n\nAt the end of\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Lolita, Bob gets Hound of the Baskervilles, and Claire gets The Fellowship of the Ring. \n\nAs the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Alice and Bob swap books. Finally, Bob and Claire swap books. At the end of the semester, Bob has  \nWhich choice is true? Answer choices: (A) Lolita, (B) Hound of the Baskervilles, (C) The Fellowship of the Ring.\n\n###\n\n",
+        "completion": " First, Bob and Claire swap books. This means that Bob now has The Fellowship of the Ring, and Claire has Hound of the Baskervilles. \n\nThen, Alice and Bob swap books. This means that Alice now has Hound of the Baskervilles, and Bob has Lolita. \n\nFinally, Bob and Claire swap books. This means that Bob now has Hound of the Baskervilles, and Claire has Lolita. \n\nAt the end of the semester, Bob has Hound of the Baskervilles.\n\n-->\n\nB END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Rodrigo, and Claire is dancing with Ophelia. \n\nThroughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Claire and Alice switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Alice is dancing with  \nWhich choice is true? Answer choices: (A) Jamie, (B) Rodrigo, (C) Ophelia.\n\n###\n\n",
+        "completion": " First, Bob and Alice switch partners. So, Alice is now dancing with Rodrigo and Bob is now dancing with Jamie. \n\nThen, Claire and Alice switch partners. So, Alice is now dancing with Ophelia and Claire is now dancing with Rodrigo. \n\nFinally, Bob and Alice switch partners. So, Alice is now dancing with Jamie and Bob is now dancing with Ophelia. \n\nAt the end of the dance, Alice is dancing with Jamie.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Rodrigo, and Claire is dancing with Ophelia. \n\nThroughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Claire and Alice switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Bob is dancing with  \nWhich choice is true? Answer choices: (A) Jamie, (B) Rodrigo, (C) Ophelia.\n\n###\n\n",
+        "completion": " First, Bob and Alice switch partners. So, at the end of this step, Alice is dancing with Rodrigo and Bob is dancing with Jamie. \n\nThen, Claire and Alice switch partners. So, at the end of this step, Claire is dancing with Rodrigo and Alice is dancing with Ophelia. \n\nFinally, Bob and Alice switch partners again. So, at the end of this step, Bob is dancing with Ophelia and Alice is dancing with Jamie. \n\nTherefore, the answer is (C).\n\n-->\n\nC END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Lola, and Claire is dancing with Izzi. \n\nThroughout the song, the dancers often trade partners. First, Alice and Bob switch partners. Then, Alice and Claire switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Alice is dancing with  \nWhich choice is true? Answer choices: (A) Melissa, (B) Lola, (C) Izzi.\n\n###\n\n",
+        "completion": " First, Alice and Bob switch partners. So, at the end of this step, Alice is dancing with Lola and Bob is dancing with Melissa. \n\nThen, Alice and Claire switch partners. So, at the end of this step, Alice is dancing with Izzi and Claire is dancing with Lola. \n\nFinally, Bob and Alice switch partners. So, at the end of this step, Alice is dancing with Melissa and Bob is dancing with Izzi. \n\nTherefore, the answer is A: Melissa.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Karl, and Claire is dancing with Ophelia. \n\nThroughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Alice and Claire switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Alice is dancing with  \nWhich choice is true? Answer choices: (A) Patrick, (B) Karl, (C) Ophelia.\n\n###\n\n",
+        "completion": " First, Bob and Alice switch partners. So, at the end of this step, Alice is dancing with Karl and Bob is dancing with Patrick. \n\nThen, Alice and Claire switch partners. So, at the end of this step, Alice is dancing with Ophelia and Claire is dancing with Karl. \n\nFinally, Bob and Alice switch partners again. So, at the end of this step, Alice is dancing with Patrick and Bob is dancing with Ophelia.\n\n-->\n\nA END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Angelina Layla Jenny Zane\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Angelina\" is \"a\".\nThe last letter of \"Layla\" is \"a\".\nThe last letter of \"Jenny\" is \"y\".\nThe last letter of \"Zane\" is \"e\".\n\nSo the final answer is \"aaye\".\n\n-->\n\naaye END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Christy Rey Michelle Dolly\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Christy\" is \"y\".\nThe last letter of \"Rey\" is \"y\".\nThe last letter of \"Michelle\" is \"e\".\nThe last letter of \"Dolly\" is \"y\".\n\nSo, the final answer is \"yyey\".\n\n-->\n\nyyey END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Mauricio Lee Madi Lizzie\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Mauricio\" is \"o\".\nThe last letter of \"Lee\" is \"e\".\nThe last letter of \"Madi\" is \"i\".\nThe last letter of \"Lizzie\" is \"e\".\n\nSo the final answer is \"oeie\".\n\n-->\n\noeie END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Irving Hans Moses Nicole\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Irving\" is \"g\".\nThe last letter of \"Hans\" is \"s\".\nThe last letter of \"Moses\" is \"s\".\nThe last letter of \"Nicole\" is \"e\".\n\nSo the final answer is \"g s s e\".\n\n-->\n\ngsse END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Chantal Ines Valeria Francesca\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Chantal\" is \"l\".\nThe last letter of \"Ines\" is \"s\".\nThe last letter of \"Valeria\" is \"a\".\nThe last letter of \"Francesca\" is \"a\".\n\nSo the final answer would be \"lsaa\".\n\n-->\n\nlsaa END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Carolyn Sasha Mercy Keri\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Carolyn\" is \"n\".\nThe last letter of \"Sasha\" is \"a\".\nThe last letter of \"Mercy\" is \"y\".\nThe last letter of \"Keri\" is \"i\".\n\nSo the final answer would be \"nayi\".\n\n-->\n\nnayi END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Markus Kathryn Giovanna Kent\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Markus\" is \"s\". \nThe last letter of \"Kathryn\" is \"n\". \nThe last letter of \"Giovanna\" is \"a\". \nThe last letter of \"Kent\" is \"t\". \n\nSo the final answer would be \"snat\".\n\n-->\n\nsnat END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Dalila Emily Casey Clifford\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Dalila\" is \"a\".\nThe last letter of \"Emily\" is \"y\".\nThe last letter of \"Casey\" is \"y\".\nThe last letter of \"Clifford\" is \"d\".\n\nSo the final answer is \"ayyd\".\n\n-->\n\nayyd END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Raymundo Jonathon Lexi Rony\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Raymundo\" is \"o\".\nThe last letter of \"Jonathon\" is \"n\".\nThe last letter of \"Lexi\" is \"i\".\nThe last letter of \"Rony\" is \"y\".\n\nSo the final answer is \"oniy\".\n\n-->\n\noniy END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Scotty Edgar Hanna Austin\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Scotty\" is \"y\".\nThe last letter of \"Edgar\" is \"r\".\nThe last letter of \"Hanna\" is \"a\".\nThe last letter of \"Austin\" is \"n\".\n\nSo, we have \"yran\".\n\n-->\n\nyran END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Ramona Lucy Gail Octavio\" and concatenate them.\n\n###\n\n",
+        "completion": " Ramona: a\nLucy: y\nGail: l\nOctavio: o\n\nThe answer would be \"aylo.\"\n\n-->\n\naylo END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Gus Brock Ava Jenna\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Gus\" is \"s\".\nThe last letter of \"Brock\" is \"k\".\nThe last letter of \"Ava\" is \"a\".\nThe last letter of \"Jenna\" is \"a\".\n\nSo, the final answer would be \"skaa\".\n\n-->\n\nskaa END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Kristine Van Marisol Preston\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Kristine\" is \"e\".\nThe last letter of \"Van\" is \"n\".\nThe last letter of \"Marisol\" is \"l\".\nThe last letter of \"Preston\" is \"n\".\n\nSo, the final answer is \"enln\".\n\n-->\n\nenln END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Darwin Colin Cj Abhishek\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Darwin\" is \"n\".\nThe last letter of \"Colin\" is \"n\".\nThe last letter of \"Cj\" is \"j\".\nThe last letter of \"Abhishek\" is \"k\".\n\nSo the final answer is \"n n j k\".\n\n-->\n\nnnjk END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Angelica Tariq Ursula Nena\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Angelica\" is \"a\".\nThe last letter of \"Tariq\" is \"q\".\nThe last letter of \"Ursula\" is \"a\".\nThe last letter of \"Nena\" is \"a\".\n\nSo the final answer is \"aqaa\".\n\n-->\n\naqaa END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Roberta Mauro Clint Marcela\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Roberta\" is \"a\".\nThe last letter of \"Mauro\" is \"o\".\nThe last letter of \"Clint\" is \"t\".\nThe last letter of \"Marcela\" is \"a\".\n\nSo the final answer would be \"aota\".\n\n-->\n\naota END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Violeta Clay Janelle Mac\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Violeta\" is \"a\".\nThe last letter of \"Clay\" is \"y\".\nThe last letter of \"Janelle\" is \"e\".\nThe last letter of \"Mac\" is \"c\".\n\nSo, the final answer would be \"ayec\".\n\n-->\n\nayec END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Dustin Luiz Rolando Connor\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Dustin\" is \"n\".\nThe last letter of \"Luiz\" is \"z\".\nThe last letter of \"Rolando\" is \"o\".\nThe last letter of \"Connor\" is \"r\".\n\nSo the final answer is \"nzor\".\n\n-->\n\nnzor END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Sherry Ben Allison Anthony\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Sherry\" is \"y\".\nThe last letter of \"Ben\" is \"n\".\nThe last letter of \"Allison\" is \"n\".\nThe last letter of \"Anthony\" is \"y\".\n\nSo, the final answer is \"ynny\".\n\n-->\n\nynny END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Juana Chip Lila Jayme\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Juana\" is \"a\".\nThe last letter of \"Chip\" is \"p\".\nThe last letter of \"Lila\" is \"a\".\nThe last letter of \"Jayme\" is \"e\".\n\nSo the final answer is \"apae\".\n\n-->\n\napae END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Jazmine Carmen Kitty Nina\" and concatenate them.\n\n###\n\n",
+        "completion": " The last letter of \"Jazmine\" is \"e\".\nThe last letter of \"Carmen\" is \"n\".\nThe last letter of \"Kitty\" is \"y\".\nThe last letter of \"Nina\" is \"a\".\n\nSo the final answer would be \"enya\".\n\n-->\n\nenya END"
+    },
+    {
+        "prompt": "A coin is heads up. Angelina flips the coin. Layla flips the coin. Jenny flips the coin. Zane does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " The coin is heads up. \nAngelina flips the coin. The coin is now tails up. \nLayla flips the coin. The coin is now heads up. \nJenny flips the coin. The coin is now tails up. \nZane does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Christy flips the coin. Rey does not flip the coin. Michelle flips the coin. Dolly does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Christy flips the coin, so now it is tails up. Rey does not flip the coin, so it remains tails up. Michelle flips the coin, so now it is heads up again. Dolly does not flip the coin, so it remains heads up. \nSo yes, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Mauricio flips the coin. Lee does not flip the coin. Madi does not flip the coin. Lizzie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Mauricio flips the coin. The coin is now tails up. \nLee does not flip the coin. The coin is still tails up. \nMadi does not flip the coin. The coin is still tails up. \nLizzie flips the coin. The coin is now heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Lazaro does not flip the coin. Ana flips the coin. Charlotte flips the coin. Precious flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Lazaro does not flip the coin, so the coin remains heads up. \nAna flips the coin, so the coin is now tails up. \nCharlotte flips the coin, so the coin is now heads up again. \nPrecious flips the coin, so the coin is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Irving flips the coin. Hans flips the coin. Moses does not flip the coin. Nicole does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " The coin is heads up. \nIrving flips the coin. The coin is now tails up. \nHans flips the coin. The coin is now heads up. \nMoses does not flip the coin. The coin is still heads up. \nNicole does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Regina does not flip the coin. Joel does not flip the coin. Justice does not flip the coin. Eli does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " If Regina does not flip the coin, then the coin remains heads up. If Joel does not flip the coin, then the coin remains heads up. If Justice does not flip the coin, then the coin remains heads up. If Eli does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Chantal does not flip the coin. Ines does not flip the coin. Valeria flips the coin. Francesca does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Chantal does not flip the coin, so the coin remains heads up. \nInes does not flip the coin, so the coin remains heads up. \nValeria flips the coin, so the coin is now tails up. \nFrancesca does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Carolyn flips the coin. Sasha does not flip the coin. Mercy does not flip the coin. Keri flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Carolyn flips the coin, so it is now tails up. Sasha does not flip the coin, so it remains tails up. Mercy does not flip the coin, so it remains tails up. Keri flips the coin, so it is now heads up again. So the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Markus does not flip the coin. Kathryn does not flip the coin. Giovanna does not flip the coin. Kent does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " If Markus does not flip the coin, then the coin remains heads up. If Kathryn does not flip the coin, then the coin remains heads up. If Giovanna does not flip the coin, then the coin remains heads up. If Kent does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Dalila flips the coin. Emily flips the coin. Casey does not flip the coin. Clifford does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Dalila flips the coin, so it's now tails up. \nEmily flips the coin, so it's now heads up again. \nCasey does not flip the coin, so it remains heads up. \nClifford does not flip the coin, so it remains heads up. \nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Raymundo flips the coin. Jonathon flips the coin. Lexi does not flip the coin. Rony flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " The coin is heads up. \nRaymundo flips the coin. The coin is now tails up. \nJonathon flips the coin. The coin is now heads up. \nLexi does not flip the coin. The coin is still heads up. \nRony flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Amy flips the coin. Ella does not flip the coin. Amilcar does not flip the coin. Roman does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Amy flips the coin. This means that the coin is now tails up. \nElla does not flip the coin. This means that the coin remains tails up. \nAmilcar does not flip the coin. This means that the coin remains tails up. \nRoman does not flip the coin. This means that the coin remains tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Daniella flips the coin. Dianne does not flip the coin. Ram flips the coin. Mirian flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Daniella flips the coin. This means that if the coin was heads up, it is now tails up. \nDianne does not flip the coin. This means that the coin remains in the same state as it was after Daniella's flip. \nRam flips the coin. This means that if the coin was heads up, it is now tails up. \nMirian flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, the final state of the coin is tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Erwin does not flip the coin. Chad does not flip the coin. Margarito does not flip the coin. Shanna does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " If Erwin does not flip the coin, then the coin remains heads up. If Chad does not flip the coin, then the coin remains heads up. If Margarito does not flip the coin, then the coin remains heads up. If Shanna does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Bret does not flip the coin. Lois flips the coin. Ismael flips the coin. Mirna flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Bret does not flip the coin, so the coin remains heads up. Lois flips the coin, so the coin is now tails up. Ismael flips the coin, so the coin is now heads up again. Mirna flips the coin, so the coin is now tails up. So, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Yvonne does not flip the coin. Rafaela does not flip the coin. Jb does not flip the coin. Salomon does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " If Yvonne does not flip the coin, then the coin remains heads up. If Rafaela does not flip the coin, then the coin remains heads up. If Jb does not flip the coin, then the coin remains heads up. Salomon also does not flip the coin, so the coin remains heads up. Therefore, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Ramona does not flip the coin. Lucy flips the coin. Gail does not flip the coin. Octavio flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Ramona does not flip the coin, so the coin remains heads up. \nLucy flips the coin, so the coin is now tails up. \nGail does not flip the coin, so the coin remains tails up. \nOctavio flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Belkis does not flip the coin. Wendell flips the coin. Lissette does not flip the coin. Patricia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Belkis does not flip the coin, so the coin remains heads up. \nWendell flips the coin, so the coin is now tails up. \nLissette does not flip the coin, so the coin remains tails up. \nPatricia does not flip the coin, so the coin remains tails up. \n\nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Gus does not flip the coin. Brock flips the coin. Ava does not flip the coin. Jenna flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Gus does not flip the coin, so the coin remains heads up. \nBrock flips the coin, so the coin is now tails up. \nAva does not flip the coin, so the coin remains tails up. \nJenna flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Kristine does not flip the coin. Van flips the coin. Marisol flips the coin. Preston does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Kristine does not flip the coin, so the coin remains heads up. \nVan flips the coin, so the coin is now tails up. \nMarisol flips the coin, so the coin is now heads up again. \nPreston does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Rosa flips the coin. Lana flips the coin. Curtis does not flip the coin. Rae does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Rosa flips the coin, so it's now tails up. \nLana flips the coin, so it's now heads up again. \nCurtis does not flip the coin, so it stays heads up. \nRae does not flip the coin, so it stays heads up. \n\nSo the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Daryl does not flip the coin. Owen does not flip the coin. Myra flips the coin. Aaron does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Daryl does not flip the coin. This means that the state of the coin does not change. \nOwen does not flip the coin. This means that the state of the coin does not change. \nMyra flips the coin. This means that the state of the coin is now tails up. \nAaron does not flip the coin. This means that the state of the coin does not change. \n\nSo, the final state of the coin is tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Roberta does not flip the coin. Mauro flips the coin. Clint flips the coin. Marcela flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Roberta does not flip the coin, so the coin remains heads up. \nMauro flips the coin, so the coin is now tails up. \nClint flips the coin, so the coin is now heads up again. \nMarcela flips the coin, so the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up anymore.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Violeta does not flip the coin. Clay flips the coin. Janelle does not flip the coin. Mac does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Violeta does not flip the coin, so the coin remains heads up. \nClay flips the coin, so the coin is now tails up. \nJanelle does not flip the coin, so the coin remains tails up. \nMac does not flip the coin, so the coin remains tails up. \nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+    },
+    {
+        "prompt": "A coin is heads up. Dustin flips the coin. Luiz does not flip the coin. Rolando flips the coin. Connor does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Dustin flips the coin. This means that the coin is now tails up. \nLuiz does not flip the coin. This means that the coin remains tails up. \nRolando flips the coin. This means that the coin is now heads up again. \nConnor does not flip the coin. This means that the coin remains heads up. \n\nSo, to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Sherry does not flip the coin. Ben flips the coin. Allison does not flip the coin. Anthony flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Sherry does not flip the coin, so the coin remains heads up. \nBen flips the coin, so the coin is now tails up. \nAllison does not flip the coin, so the coin remains tails up. \nAnthony flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Juana does not flip the coin. Chip does not flip the coin. Lila does not flip the coin. Jayme does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " If Juana does not flip the coin, then the coin remains heads up. If Chip does not flip the coin, then the coin remains heads up. If Lila does not flip the coin, then the coin remains heads up. If Jayme does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+    },
+    {
+        "prompt": "A coin is heads up. Jazmine does not flip the coin. Carmen flips the coin. Kitty does not flip the coin. Nina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+        "completion": " Jazmine does not flip the coin, so the coin remains heads up. \nCarmen flips the coin, so the coin is now tails up. \nKitty does not flip the coin, so the coin remains tails up. \nNina does not flip the coin, so the coin remains tails up. \n\nTherefore, the answer is yes, the coin is still tails up.\n\n-->\n\nno END"
+    }
+]

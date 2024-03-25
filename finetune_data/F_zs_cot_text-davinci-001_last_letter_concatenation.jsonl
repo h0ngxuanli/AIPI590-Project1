@@ -1,1 +1,0 @@
-{"prompt": "Take the last letters of each words in \"Imelda Andi Mack Rigoberto\" and concatenate them.\n\n###\n\n", "completion": " Imelda is \"a\"\nAndi is \"i\"\nMack is \"k\"\nRigoberto is \"o\"\n\nSo the final result is \"aiko\".\n\n-->\n\naiko END"}

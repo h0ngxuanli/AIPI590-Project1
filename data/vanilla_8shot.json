@@ -1,0 +1,386 @@
+[
+    {
+        "prompt": "There were 6 roses in the vase. Mary cut some more roses from her flower garden. There are now 16 roses in the vase. How many roses did she cut ?\n\n ### \n\n",
+        "completion": " 10.0 END"
+    },
+    {
+        "prompt": "There are 54 scissors in the drawer. Keith placed 22 more  scissors in the drawer. How many scissors are now there in all ?\n\n ### \n\n",
+        "completion": " 76.0 END"
+    },
+    {
+        "prompt": "Jason had Pokemon cards. He gave 9 Pokemon cards to his friends. He now has 4 Pokemon cards left. How many Pokemon cards did he have to start with ?\n\n ### \n\n",
+        "completion": " 13.0 END"
+    },
+    {
+        "prompt": "Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. How many black balloons does Mary have now ?\n\n ### \n\n",
+        "completion": " 28.0 END"
+    },
+    {
+        "prompt": "Sandy sold lemonade in her neighborhood. She got 17 half-dollars on Saturday and 6 half-dollars on Sunday. What amount of money did Sandy receive?\n\n ### \n\n",
+        "completion": " 11.5 END"
+    },
+    {
+        "prompt": "Elizabeth went to the salon and had 0.375 of an inch of hair cut off. The next day she went back and asked for another 0.5 of an inch to be cut off. How much hair did she have cut off in all?\n\n ### \n\n",
+        "completion": " 0.875 END"
+    },
+    {
+        "prompt": "When Jake had one cat, he needed to serve 0.5 of a can of cat food each day. Now that Jake has adopted a second cat, he needs to serve a total of 0.9 of a can each day. How much extra food is needed to feed the second cat?\n\n ### \n\n",
+        "completion": " 0.4 END"
+    },
+    {
+        "prompt": "Brenda, Betty\u2019s sister, wanted to have 3 bracelets with star-shaped stones. She also bought 36 star-shaped stones from the local store and gave it to Betty. How many star-shaped stones will there be in each of the bracelet Betty makes for Brenda?\n\n ### \n\n",
+        "completion": " 12.0 END"
+    },
+    {
+        "prompt": "Sally found 9 seashells , Tom found 7 seashells , and Jessica found 5 seashells on the beach . How many seashells did they find together ?\n\n ### \n\n",
+        "completion": " 21 END"
+    },
+    {
+        "prompt": "Sandy grew 51 pumpkins . Mike grew 23 pumpkins . How many pumpkins did they grow in total ?\n\n ### \n\n",
+        "completion": " 74 END"
+    },
+    {
+        "prompt": "Mary had 8 potatoes in the garden . The rabbits ate 3 of the potatoes . How many potatoes does Mary now have ?\n\n ### \n\n",
+        "completion": " 5 END"
+    },
+    {
+        "prompt": "A ship is filled with 5973 tons of cargo . It stops in the Bahamas , where sailors load 8723 tons of cargo onboard . How many tons of cargo does the ship hold now ?\n\n ### \n\n",
+        "completion": " 14696.0 END"
+    },
+    {
+        "prompt": "In March it rained 0.81 inches . It rained 0.35 inches less in April than in March . How much did it rain in April ?\n\n ### \n\n",
+        "completion": " 0.46 END"
+    },
+    {
+        "prompt": "Brennan had 0.25 grams of pepper . Then he used 0.16 grams of the pepper to make some scrambled eggs . How much pepper does Brennan have ?\n\n ### \n\n",
+        "completion": " 0.09 END"
+    },
+    {
+        "prompt": "Melanie picked 7 plums and 4 oranges from the orchard . She gave 3 plums to Sam . How many plums does she have now ?\n\n ### \n\n",
+        "completion": " 4 END"
+    },
+    {
+        "prompt": "Mary went to the mall . She spent $ 13.04 on a shirt and $ 12.27 on a jacket . She went to 2 shops . In total , how much money did Mary spend on clothing ?\n\n ### \n\n",
+        "completion": " 25.31 END"
+    },
+    {
+        "prompt": "Faye had 46 math problems and 9 science problems for homework. If she finished 40 of the problems at school, how many problems did she have to do for homework?\n\n ### \n\n",
+        "completion": " 15 END"
+    },
+    {
+        "prompt": "For the school bake sale Paige made pastries. She baked 36 cupcakes and 9 cookies. After the sale she had 4 to take back home. How many pastries did she sell?\n\n ### \n\n",
+        "completion": " 41 END"
+    },
+    {
+        "prompt": "Sam had 10 socks. If he threw away 3 old ones that didn't fit and bought 36 new ones, how many socks would he have?\n\n ### \n\n",
+        "completion": " 43 END"
+    },
+    {
+        "prompt": "In fourth grade there were 11 students at the start of the year. During the year 6 students left and 42 new students came to school. How many students were in fourth grade at the end?\n\n ### \n\n",
+        "completion": " 47 END"
+    },
+    {
+        "prompt": "For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have?\n\n ### \n\n",
+        "completion": " 11 END"
+    },
+    {
+        "prompt": "At Tom's Restaurant a group with 2 adults and 5 children came in to eat. If each meal cost 8 dollars, how much was the bill?\n\n ### \n\n",
+        "completion": " 56 END"
+    },
+    {
+        "prompt": "Billy was organizing his baseball cards in a binder with 5 on each page. If he had 3 new cards and 42 old cards to put in the binder, how many pages would he use?\n\n ### \n\n",
+        "completion": " 9 END"
+    },
+    {
+        "prompt": "At a restaurant each adult meal costs $2 and kids eat free. If a group of 9 people came in and 2 were kids, how much would it cost for the group to eat?\n\n ### \n\n",
+        "completion": " 14 END"
+    },
+    {
+        "prompt": "Anna goes trick-or-treating in a subdivision where she gets 14 pieces of candy per house. Her brother Billy goes trick-or-tricking in a neighboring subdivision where he gets 11 pieces of candy per house. If the first subdivision has 60 houses and the second subdivision has 75 houses, how many more pieces of candy does Anna get?\n\n ### \n\n",
+        "completion": " 15 END"
+    },
+    {
+        "prompt": "Farmer Red has three milk cows: Bess, Brownie, and Daisy. Bess, the smallest cow, gives him two pails of milk every day. Brownie, the largest cow, produces three times that amount. Then Daisy makes one pail more than Bess. How many pails of milk does Farmer Red get from them each week?\n\n ### \n\n",
+        "completion": " 77 END"
+    },
+    {
+        "prompt": "Farmer Brown fed 7 chickens and 5 sheep. How many total legs were there among the animals he fed?\n\n ### \n\n",
+        "completion": " 34 END"
+    },
+    {
+        "prompt": "Nate starts his camping trip with 70 matches. He drops 10 in a creek and his dog eats twice as many. How many matches does he have left?\n\n ### \n\n",
+        "completion": " 40 END"
+    },
+    {
+        "prompt": "If Pam is currently twice as young as Rena is, and in 10 years Rena will be 5 years older than her, how old is Pam now?\n\n ### \n\n",
+        "completion": " 5 END"
+    },
+    {
+        "prompt": "Pat\u2019s computer password is made up of several kinds of alphanumeric and symbol characters for security. He uses a string of eight random lowercase letters, a string half that length of alternating upper case letters and numbers, and one symbol on each end of the password. How many characters in all is Pat\u2018s computer password?\n\n ### \n\n",
+        "completion": " 14 END"
+    },
+    {
+        "prompt": "A fruit stand is selling apples for $2 each. Emmy has $200 while Gerry has $100. If they want to buy apples, how many apples can Emmy and Gerry buy altogether?\n\n ### \n\n",
+        "completion": " 150 END"
+    },
+    {
+        "prompt": "At the height of cranberry season, there are 60000 cranberries in a bog. 40% are harvested by humans and another 20000 are eaten by elk. How many cranberries are left?\n\n ### \n\n",
+        "completion": " 16000 END"
+    },
+    {
+        "prompt": "A circular path of 12 m radius has marginal walk 2 m wide all round it. Find the cost of leveling the walk at 50p per m2? Answer choices: (A) Rs.49, (B) Rs.40, (C) Rs.81.72, (D) Rs.42, (E) Rs.43.\n\n ### \n\n",
+        "completion": " C END"
+    },
+    {
+        "prompt": "An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is: Answer choices: (A) 2%, (B) 2.02%, (C) 4%, (D) 4.04%, (E) 5%.\n\n ### \n\n",
+        "completion": " D END"
+    },
+    {
+        "prompt": "A certain team has 14 members, including Joey. A three-member relay team will be selected as follows: one of the 14 members is to be chosen at random to run first, one of the remaining 13 members is to be chosen at random to run second, and one of the remaining 12 members is to be chosen at random to run third. What is the probability that Joey will be chosen to run second or third? Answer choices: (A) 1/3, (B) 2/5, (C) 1/6, (D) 1/7, (E) 5/14.\n\n ### \n\n",
+        "completion": " D END"
+    },
+    {
+        "prompt": "In a box of 11 pens, a total of 3 are defective. If a customer buys 2 pens selected at random from the box, what is the probability that neither pen will be defective? Answer choices: (A) 28/55, (B) 19/33, (C) 7/11, (D) 4/7, (E) 3/5.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "If the Average of 10 consecutive integers is 19.5 then the 10th integer is :- Answer choices: (A) 15, (B) 20, (C) 23, (D) 24, (E) 25.\n\n ### \n\n",
+        "completion": " D END"
+    },
+    {
+        "prompt": "Which of the following equations has a root in common with x^2\u22124x=0 ? Answer choices: (A) x^2-4x+4=0, (B) x^2-2x+1=0, (C) x^2-3x+2=0, (D) x^2-7x+6=0, (E) x^2-9x=0.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "The length of the bridge, which a train 170 metres long and travelling at 45 km/hr can cross in 30 seconds, is? Answer choices: (A) 245, (B) 777, (C) 282, (D) 266, (E) 205.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "A soccer store typically sells replica jerseys at a discount of 20 percent to 50 percent off list price. During the annual summer sale, everything in the store is an additional 20 percent off the original list price. If a replica jersey's list price is $80, approximately what percent of the list price is the lowest possible sale price? Answer choices: (A) 20, (B) 25, (C) 30, (D) 40, (E) 50.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys How many boys are there in that school?\n\n ### \n\n",
+        "completion": " 469.0 END"
+    },
+    {
+        "prompt": "Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?\n\n ### \n\n",
+        "completion": " 13.0 END"
+    },
+    {
+        "prompt": "After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?\n\n ### \n\n",
+        "completion": " 61.0 END"
+    },
+    {
+        "prompt": "At the arcade Dave had won 13 tickets. If he used 8 to buy some toys and 18 more to buy some clothes How many more tickets did Dave use to buy clothes than he did to buy toys?\n\n ### \n\n",
+        "completion": " 10.0 END"
+    },
+    {
+        "prompt": "A mailman has to give 25 pieces of junk mail to each block. If he gives 5 mails to each house in a block How many houses are there in a block?\n\n ### \n\n",
+        "completion": " 5.0 END"
+    },
+    {
+        "prompt": "If they are already at 659 feet and the cave is 762 feet deep How much farther until they reach the end of the cave?\n\n ### \n\n",
+        "completion": " 103.0 END"
+    },
+    {
+        "prompt": "Some children were riding on the bus. At the bus stop 2 more children got on the bus. Then there were 41 children altogether on the bus. How many children were riding on the bus before the bus stop?\n\n ### \n\n",
+        "completion": " 39.0 END"
+    },
+    {
+        "prompt": "A farmer had 105 green tomatoes and 71 red tomatoes in his garden. If he picked 137 tomatoes How many tomatoes are left?\n\n ### \n\n",
+        "completion": " 39.0 END"
+    },
+    {
+        "prompt": "Where would someone likely bring an attache case? Answer choices: (A) overhead compartment, (B) chair, (C) hospital, (D) in shirt, (E) business meeting.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "Where would you carry a pen as you go through your day? Answer choices: (A) pocket, (B) office supply store, (C) friend's house, (D) desk drawer, (E) city hall.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "The couple had a forgiving attitude with each other thereafter, what did they do? Answer choices: (A) great relief, (B) feel better, (C) respect, (D) go up high, (E) make up.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "What happens when a child reads something? Answer choices: (A) balloon, (B) become adult, (C) learn, (D) clean room, (E) loved.\n\n ### \n\n",
+        "completion": " C END"
+    },
+    {
+        "prompt": "What can drinking alcohol in excess to the point of poisoning cause? Answer choices: (A) death, (B) disorientation, (C) frequent urination, (D) having sex, (E) bad breath.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "Where would you play a trumpet and have to walk the entire time? Answer choices: (A) music store, (B) music shop, (C) drill team, (D) brass band, (E) marching band.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "Where can a vegetarian restaurant be found? Answer choices: (A) san francisco, (B) anywhere, (C) downtown, (D) most cities, (E) in the country.\n\n ### \n\n",
+        "completion": " B END"
+    },
+    {
+        "prompt": "The man had to leave work in a hurry, in the middle of work, where was his paper work left? Answer choices: (A) desk, (B) chair, (C) meeting, (D) office, (E) work.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "Was Snoop Dogg an adult when Tickle Me Elmo was popular?\n\n ### \n\n",
+        "completion": " Yes END"
+    },
+    {
+        "prompt": "Were there fifty English kings throughout the Middle Ages?\n\n ### \n\n",
+        "completion": " No END"
+    },
+    {
+        "prompt": "Was the French Revolution televised?\n\n ### \n\n",
+        "completion": " No END"
+    },
+    {
+        "prompt": "Would a sesame seed be mistaken for a wood frog egg?\n\n ### \n\n",
+        "completion": " No END"
+    },
+    {
+        "prompt": "Could Elizabeth I of England have seen the play Dido, Queen of Carthage ?\n\n ### \n\n",
+        "completion": " Yes END"
+    },
+    {
+        "prompt": "Is strep throat harmless to singer Rita Ora after her 2020 tonsilitis surgery?\n\n ### \n\n",
+        "completion": " No END"
+    },
+    {
+        "prompt": "Would a black widow woman have use for peaches?\n\n ### \n\n",
+        "completion": " Yes END"
+    },
+    {
+        "prompt": "Can Simon Cowell vote for the next Supreme Court judge?\n\n ### \n\n",
+        "completion": " No END"
+    },
+    {
+        "prompt": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 05/31/1993, (B) 07/07/2021, (C) 05/31/2021, (D) 05/30/2021, (E) 05/17/2021, (F) 06/01/2021.\n\n ### \n\n",
+        "completion": " C END"
+    },
+    {
+        "prompt": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 10 days ago in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 04/07/1985, (B) 03/31/1985, (C) 05/13/1985, (D) 04/10/1986, (E) 03/10/1986, (F) 04/13/1985.\n\n ### \n\n",
+        "completion": " B END"
+    },
+    {
+        "prompt": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 24 hours later in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 04/10/1985, (B) 04/12/1987, (C) 04/07/1975, (D) 04/13/1985, (E) 04/11/1985, (F) 04/12/1986.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date 24 hours later in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 03/05/1972, (B) 03/02/1973, (C) 04/05/1973, (D) 01/02/1973, (E) 03/06/1973, (F) 03/08/1983.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date 10 days ago in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 01/23/2020, (B) 01/22/2020, (C) 01/23/2078, (D) 03/23/2020, (E) 01/23/2011.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "Today is 9/7. Jane is watching NFL 2003. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 09/08/1916, (B) 09/01/2003, (C) 09/08/2003, (D) 09/13/2003, (E) 08/18/2003, (F) 09/15/2003.\n\n ### \n\n",
+        "completion": " C END"
+    },
+    {
+        "prompt": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week from today in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 08/22/1925, (B) 10/21/1924, (C) 10/07/1924, (D) 10/22/1944, (E) 10/22/1924, (F) 11/21/1924.\n\n ### \n\n",
+        "completion": " E END"
+    },
+    {
+        "prompt": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date tomorrow in MM/DD/YYYY?\nWhich choice is true? Answer choices: (A) 10/14/1960, (B) 12/03/1960, (C) 01/11/1961, (D) 01/03/1982, (E) 01/18/1961, (F) 01/03/1961.\n\n ### \n\n",
+        "completion": " F END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a pink ball, Bob has a brown ball, and Claire has a orange ball. \n\nAs the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Alice and Bob swap balls. Finally, Bob and Claire swap balls. At the end of the game, Claire has the \nWhich choice is true? Answer choices: (A) pink ball, (B) brown ball, (C) orange ball.\n\n ### \n\n",
+        "completion": " C END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right midfielder, and Claire is playing goalkeeper. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Claire and Alice trade positions. Finally, Bob and Claire trade positions. At the end of the match, Bob is playing \nWhich choice is true? Answer choices: (A) striker, (B) right midfielder, (C) goalkeeper.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing benchwarmer, and Claire is playing fullback. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Alice and Claire trade positions. Then, Alice and Bob trade positions. Finally, Alice and Claire trade positions. At the end of the match, Claire is playing \nWhich choice is true? Answer choices: (A) center midfielder, (B) benchwarmer, (C) fullback.\n\n ### \n\n",
+        "completion": " B END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing cheerleader, and Claire is playing center midfielder. \n\nAs the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Alice and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Alice is playing \nWhich choice is true? Answer choices: (A) goalkeeper, (B) cheerleader, (C) center midfielder.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Lolita, Bob gets Hound of the Baskervilles, and Claire gets The Fellowship of the Ring. \n\nAs the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Alice and Bob swap books. Finally, Bob and Claire swap books. At the end of the semester, Bob has  \nWhich choice is true? Answer choices: (A) Lolita, (B) Hound of the Baskervilles, (C) The Fellowship of the Ring.\n\n ### \n\n",
+        "completion": " B END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, and Claire gets Ulysses. \n\nAs the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Bob and Claire swap books. Finally, Claire and Alice swap books. At the end of the semester, Alice has  \nWhich choice is true? Answer choices: (A) The Great Gatsby, (B) Frankenstein, (C) Ulysses.\n\n ### \n\n",
+        "completion": " B END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Rodrigo, and Claire is dancing with Ophelia. \n\nThroughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Claire and Alice switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Alice is dancing with  \nWhich choice is true? Answer choices: (A) Jamie, (B) Rodrigo, (C) Ophelia.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Karl, and Claire is dancing with Ophelia. \n\nThroughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Alice and Claire switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Alice is dancing with  \nWhich choice is true? Answer choices: (A) Patrick, (B) Karl, (C) Ophelia.\n\n ### \n\n",
+        "completion": " A END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Angelina Layla Jenny Zane\" and concatenate them.\n\n ### \n\n",
+        "completion": " aaye END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Irving Hans Moses Nicole\" and concatenate them.\n\n ### \n\n",
+        "completion": " gsse END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Regina Joel Justice Eli\" and concatenate them.\n\n ### \n\n",
+        "completion": " alei END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Erwin Chad Margarito Shanna\" and concatenate them.\n\n ### \n\n",
+        "completion": " ndoa END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Gus Brock Ava Jenna\" and concatenate them.\n\n ### \n\n",
+        "completion": " skaa END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Kristine Van Marisol Preston\" and concatenate them.\n\n ### \n\n",
+        "completion": " enln END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Violeta Clay Janelle Mac\" and concatenate them.\n\n ### \n\n",
+        "completion": " ayec END"
+    },
+    {
+        "prompt": "Take the last letters of each words in \"Sherry Ben Allison Anthony\" and concatenate them.\n\n ### \n\n",
+        "completion": " ynny END"
+    },
+    {
+        "prompt": "A coin is heads up. Angelina flips the coin. Layla flips the coin. Jenny flips the coin. Zane does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " no END"
+    },
+    {
+        "prompt": "A coin is heads up. Irving flips the coin. Hans flips the coin. Moses does not flip the coin. Nicole does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " yes END"
+    },
+    {
+        "prompt": "A coin is heads up. Regina does not flip the coin. Joel does not flip the coin. Justice does not flip the coin. Eli does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " yes END"
+    },
+    {
+        "prompt": "A coin is heads up. Erwin does not flip the coin. Chad does not flip the coin. Margarito does not flip the coin. Shanna does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " yes END"
+    },
+    {
+        "prompt": "A coin is heads up. Gus does not flip the coin. Brock flips the coin. Ava does not flip the coin. Jenna flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " yes END"
+    },
+    {
+        "prompt": "A coin is heads up. Kristine does not flip the coin. Van flips the coin. Marisol flips the coin. Preston does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " yes END"
+    },
+    {
+        "prompt": "A coin is heads up. Violeta does not flip the coin. Clay flips the coin. Janelle does not flip the coin. Mac does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " no END"
+    },
+    {
+        "prompt": "A coin is heads up. Sherry does not flip the coin. Ben flips the coin. Allison does not flip the coin. Anthony flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n ### \n\n",
+        "completion": " yes END"
+    }
+]
