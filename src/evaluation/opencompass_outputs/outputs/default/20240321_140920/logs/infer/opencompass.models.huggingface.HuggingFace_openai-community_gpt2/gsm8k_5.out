@@ -1,0 +1,15 @@
+03/21 14:12:24 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_openai-community_gpt2/gsm8k_5]
+2024-03-21 14:12:24.842825: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-03-21 14:12:25.735297: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+03/21 14:12:28 - OpenCompass - WARNING - pad_token_id is not set for the tokenizer.
+03/21 14:12:28 - OpenCompass - WARNING - Using eos_token_id <|endoftext|> as pad_token_id.
+/environment/miniconda3/lib/python3.10/site-packages/peft/tuners/lora/layer.py:1059: UserWarning: fan_in_fan_out is set to False but the target module is `Conv1D`. Setting fan_in_fan_out to True.
+  warnings.warn(
+03/21 14:12:30 - OpenCompass - INFO - Start inferencing [opencompass.models.huggingface.HuggingFace_openai-community_gpt2/gsm8k_5]
+Token indices sequence length is longer than the specified maximum sequence length for this model (1269 > 1024). Running this sequence through the model will result in indexing errors
+[2024-03-21 14:12:31,168] [opencompass.openicl.icl_inferencer.icl_gen_inferencer] [INFO] Starting inference process...
+  0%|                                                                                                     | 0/2 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+ 50%|██████████████████████████████████████████████▌                                              | 1/2 [00:09<00:09,  9.66s/it]Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:14<00:00,  7.05s/it]100%|█████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:14<00:00,  7.45s/it]
+03/21 14:12:46 - OpenCompass - INFO - time elapsed: 21.58s

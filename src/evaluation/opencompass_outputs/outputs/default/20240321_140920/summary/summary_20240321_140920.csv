@@ -1,0 +1,2 @@
+dataset,version,metric,mode,opencompass.models.huggingface.HuggingFace_openai-community_gpt2
+gsm8k,1d7fe4,accuracy,gen,1.74
